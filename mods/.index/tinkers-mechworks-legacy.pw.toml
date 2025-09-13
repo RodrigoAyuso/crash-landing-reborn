@@ -1,0 +1,16 @@
+filename = 'TMechworks-1.12.2-1.0.1.jar'
+name = "Tinkers' Mechworks (Legacy 1.12.2)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f964aad09e0b06b0e44c2c9d7dc549f0fdc1037a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6440483
+project-id = 1215257

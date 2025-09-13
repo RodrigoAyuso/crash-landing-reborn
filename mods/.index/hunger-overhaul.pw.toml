@@ -1,0 +1,16 @@
+filename = 'HungerOverhaul-1.12.2-1.3.3.jenkins148.jar'
+name = 'Hunger Overhaul'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6ac289e44ae54f30b116c30a60dee82721c7d690'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2565122
+project-id = 224476

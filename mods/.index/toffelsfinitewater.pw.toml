@@ -1,0 +1,16 @@
+filename = 'finite_water-1.0.jar'
+name = 'Finite Water'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4356e9659e93cb6dd05c96bf5c431a606365b4553f081bd5bb157f324bfabdf1be188fa51668789849b7101ee7d646b3ae8b8856866eb50e5c0c12eff8f354b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8fkJAnZL/versions/ABF8ptV7/finite_water-1.0.jar'
+
+[update.modrinth]
+mod-id = '8fkJAnZL'
+version = 'ABF8ptV7'

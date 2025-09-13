@@ -1,0 +1,16 @@
+filename = 'Lockdown-1.12.1-7.0.1-universal.jar'
+name = 'Lockdown'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '80e3e8e5e2dbd0da0a7cd60ed5fee2084c7b6a52'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2477270
+project-id = 244019

@@ -1,0 +1,16 @@
+filename = 'HQM-1.12-5.4.0-hotfix1.jar'
+name = 'Hardcore Questing Mode [FORGE/FABRIC]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '94c9626c677f2158fd5c8e4895602a345f103fa7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2710810
+project-id = 77027

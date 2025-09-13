@@ -1,0 +1,12 @@
+{
+    "color": "FFD000",
+    "variants": [
+        "gravel",
+        "netherGravel",
+        "sand",
+        "dust"
+    ],
+    "ingotItem": {
+        "item": "minecraft:gold_ingot"
+    }
+}
