@@ -1,0 +1,16 @@
+filename = 'thermallogistics-0.3-43.jar'
+name = 'ThermalLogistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '7ce041644716f20cf07eddb710f7caf32d0d31a2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3379693
+project-id = 313298

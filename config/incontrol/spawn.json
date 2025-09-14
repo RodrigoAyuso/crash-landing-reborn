@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "passive": true,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:husk",
+    "result": "deny"
+  },
+  {
+    "mob": "thermalfoundation:blitz",
+    "result": "deny"
+  }
+]

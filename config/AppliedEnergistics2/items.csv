@@ -1721,6 +1721,481 @@ thermalexpansion:florb:0, Florb (Empty§r)
 thermalexpansion:florb:1, Magmatic Florb (Empty§r)
 thermalexpansion:morb:0, Morb (Empty§r)
 thermalexpansion:morb:1, Reusable Morb (Empty§r)
+thermaldynamics:duct_0:0, Leadstone Fluxduct
+thermaldynamics:duct_0:1, Hardened Fluxduct
+thermaldynamics:duct_0:2, Redstone Energy Fluxduct
+thermaldynamics:duct_0:3, Signalum Fluxduct
+thermaldynamics:duct_0:4, Resonant Fluxduct
+thermaldynamics:duct_0:5, Cryo-Stabilized Fluxduct
+thermaldynamics:duct_0:6, Redstone Energy Fluxduct (Empty)
+thermaldynamics:duct_0:7, Signalum Fluxduct (Empty)
+thermaldynamics:duct_0:8, Resonant Fluxduct (Empty)
+thermaldynamics:duct_0:9, Cryo-Stabilized Fluxduct (Empty)
+thermaldynamics:duct_16:0, Fluiduct
+thermaldynamics:duct_16:1, Fluiduct (Opaque)
+thermaldynamics:duct_16:2, Hardened Fluiduct
+thermaldynamics:duct_16:3, Hardened Fluiduct (Opaque)
+thermaldynamics:duct_16:4, Signalum-Plated Fluiduct
+thermaldynamics:duct_16:5, Signalum-Plated Fluiduct (Opaque)
+thermaldynamics:duct_16:6, Super-Laminar Fluiduct
+thermaldynamics:duct_16:7, Super-Laminar Fluiduct (Opaque)
+thermaldynamics:duct_32:0, Vacuum Itemduct
+thermaldynamics:duct_32:0, Dense Itemduct
+thermaldynamics:duct_32:0, Itemduct
+thermaldynamics:duct_32:1, Vacuum Itemduct (Opaque)
+thermaldynamics:duct_32:1, Dense Itemduct (Opaque)
+thermaldynamics:duct_32:1, Itemduct (Opaque)
+thermaldynamics:duct_32:2, Vacuum Impulse Itemduct
+thermaldynamics:duct_32:2, Dense Impulse Itemduct
+thermaldynamics:duct_32:2, Impulse Itemduct
+thermaldynamics:duct_32:3, Vacuum Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:3, Dense Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:3, Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:4, Vacuum Signalum-Plated Itemduct
+thermaldynamics:duct_32:4, Dense Signalum-Plated Itemduct
+thermaldynamics:duct_32:4, Signalum-Plated Itemduct
+thermaldynamics:duct_32:5, Vacuum Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:5, Dense Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:5, Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:6, Vacuum Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:6, Dense Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:6, Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:7, Vacuum Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:7, Dense Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:7, Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_48:0, Structuralduct
+thermaldynamics:duct_64:0, Viaduct
+thermaldynamics:duct_64:1, Long Range Viaduct
+thermaldynamics:duct_64:2, Long Range Linking Viaduct
+thermaldynamics:duct_64:3, Viaduct (Untreated)
+thermaldynamics:servo:0, Servo
+thermaldynamics:servo:1, Hardened Servo
+thermaldynamics:servo:2, Reinforced Servo
+thermaldynamics:servo:3, Signalum Servo
+thermaldynamics:servo:4, Resonant Servo
+thermaldynamics:filter:0, Filter
+thermaldynamics:filter:1, Hardened Filter
+thermaldynamics:filter:2, Reinforced Filter
+thermaldynamics:filter:3, Signalum Filter
+thermaldynamics:filter:4, Resonant Filter
+thermaldynamics:retriever:0, Retriever
+thermaldynamics:retriever:1, Hardened Retriever
+thermaldynamics:retriever:2, Reinforced Retriever
+thermaldynamics:retriever:3, Signalum Retriever
+thermaldynamics:retriever:4, Resonant Retriever
+thermaldynamics:relay:0, Redstone Relay
+thermaldynamics:cover:0, Stone Cover
+thermaldynamics:cover:0, Granite Cover
+thermaldynamics:cover:0, Polished Granite Cover
+thermaldynamics:cover:0, Diorite Cover
+thermaldynamics:cover:0, Polished Diorite Cover
+thermaldynamics:cover:0, Andesite Cover
+thermaldynamics:cover:0, Polished Andesite Cover
+thermaldynamics:cover:0, Grass Block Cover
+thermaldynamics:cover:0, Dirt Cover
+thermaldynamics:cover:0, Coarse Dirt Cover
+thermaldynamics:cover:0, Podzol Cover
+thermaldynamics:cover:0, Cobblestone Cover
+thermaldynamics:cover:0, Oak Wood Planks Cover
+thermaldynamics:cover:0, Spruce Wood Planks Cover
+thermaldynamics:cover:0, Birch Wood Planks Cover
+thermaldynamics:cover:0, Jungle Wood Planks Cover
+thermaldynamics:cover:0, Acacia Wood Planks Cover
+thermaldynamics:cover:0, Dark Oak Wood Planks Cover
+thermaldynamics:cover:0, Bedrock Cover
+thermaldynamics:cover:0, Sand Cover
+thermaldynamics:cover:0, Red Sand Cover
+thermaldynamics:cover:0, Gravel Cover
+thermaldynamics:cover:0, Gold Ore Cover
+thermaldynamics:cover:0, Iron Ore Cover
+thermaldynamics:cover:0, Coal Ore Cover
+thermaldynamics:cover:0, Oak Wood Cover
+thermaldynamics:cover:0, Spruce Wood Cover
+thermaldynamics:cover:0, Birch Wood Cover
+thermaldynamics:cover:0, Jungle Wood Cover
+thermaldynamics:cover:0, Oak Leaves Cover
+thermaldynamics:cover:0, Spruce Leaves Cover
+thermaldynamics:cover:0, Birch Leaves Cover
+thermaldynamics:cover:0, Jungle Leaves Cover
+thermaldynamics:cover:0, Sponge Cover
+thermaldynamics:cover:0, Wet Sponge Cover
+thermaldynamics:cover:0, Glass Cover
+thermaldynamics:cover:0, Lapis Lazuli Ore Cover
+thermaldynamics:cover:0, Lapis Lazuli Block Cover
+thermaldynamics:cover:0, Sandstone Cover
+thermaldynamics:cover:0, Chiseled Sandstone Cover
+thermaldynamics:cover:0, Smooth Sandstone Cover
+thermaldynamics:cover:0, White Wool Cover
+thermaldynamics:cover:0, Orange Wool Cover
+thermaldynamics:cover:0, Magenta Wool Cover
+thermaldynamics:cover:0, Light Blue Wool Cover
+thermaldynamics:cover:0, Yellow Wool Cover
+thermaldynamics:cover:0, Lime Wool Cover
+thermaldynamics:cover:0, Pink Wool Cover
+thermaldynamics:cover:0, Gray Wool Cover
+thermaldynamics:cover:0, Light Gray Wool Cover
+thermaldynamics:cover:0, Cyan Wool Cover
+thermaldynamics:cover:0, Purple Wool Cover
+thermaldynamics:cover:0, Blue Wool Cover
+thermaldynamics:cover:0, Brown Wool Cover
+thermaldynamics:cover:0, Green Wool Cover
+thermaldynamics:cover:0, Red Wool Cover
+thermaldynamics:cover:0, Black Wool Cover
+thermaldynamics:cover:0, Block of Gold Cover
+thermaldynamics:cover:0, Block of Iron Cover
+thermaldynamics:cover:0, Stone Slab Cover
+thermaldynamics:cover:0, Sandstone Slab Cover
+thermaldynamics:cover:0, Cobblestone Slab Cover
+thermaldynamics:cover:0, Bricks Slab Cover
+thermaldynamics:cover:0, Stone Bricks Slab Cover
+thermaldynamics:cover:0, Nether Brick Slab Cover
+thermaldynamics:cover:0, Quartz Slab Cover
+thermaldynamics:cover:0, Bricks Cover
+thermaldynamics:cover:0, TNT Cover
+thermaldynamics:cover:0, Bookshelf Cover
+thermaldynamics:cover:0, Moss Stone Cover
+thermaldynamics:cover:0, Obsidian Cover
+thermaldynamics:cover:0, Oak Wood Stairs Cover
+thermaldynamics:cover:0, Diamond Ore Cover
+thermaldynamics:cover:0, Block of Diamond Cover
+thermaldynamics:cover:0, Crafting Table Cover
+thermaldynamics:cover:0, Cobblestone Stairs Cover
+thermaldynamics:cover:0, Redstone Ore Cover
+thermaldynamics:cover:0, Ice Cover
+thermaldynamics:cover:0, Snow Cover
+thermaldynamics:cover:0, Cactus Cover
+thermaldynamics:cover:0, Clay Cover
+thermaldynamics:cover:0, Pumpkin Cover
+thermaldynamics:cover:0, Netherrack Cover
+thermaldynamics:cover:0, Soul Sand Cover
+thermaldynamics:cover:0, Glowstone Cover
+thermaldynamics:cover:0, Jack o'Lantern Cover
+thermaldynamics:cover:0, White Stained Glass Cover
+thermaldynamics:cover:0, Orange Stained Glass Cover
+thermaldynamics:cover:0, Magenta Stained Glass Cover
+thermaldynamics:cover:0, Light Blue Stained Glass Cover
+thermaldynamics:cover:0, Yellow Stained Glass Cover
+thermaldynamics:cover:0, Lime Stained Glass Cover
+thermaldynamics:cover:0, Pink Stained Glass Cover
+thermaldynamics:cover:0, Gray Stained Glass Cover
+thermaldynamics:cover:0, Light Gray Stained Glass Cover
+thermaldynamics:cover:0, Cyan Stained Glass Cover
+thermaldynamics:cover:0, Purple Stained Glass Cover
+thermaldynamics:cover:0, Blue Stained Glass Cover
+thermaldynamics:cover:0, Brown Stained Glass Cover
+thermaldynamics:cover:0, Green Stained Glass Cover
+thermaldynamics:cover:0, Red Stained Glass Cover
+thermaldynamics:cover:0, Black Stained Glass Cover
+thermaldynamics:cover:0, Stone Monster Egg Cover
+thermaldynamics:cover:0, Cobblestone Monster Egg Cover
+thermaldynamics:cover:0, Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Mossy Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Cracked Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Chiseled Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Stone Bricks Cover
+thermaldynamics:cover:0, Mossy Stone Bricks Cover
+thermaldynamics:cover:0, Cracked Stone Bricks Cover
+thermaldynamics:cover:0, Chiseled Stone Bricks Cover
+thermaldynamics:cover:0, Iron Bars Cover
+thermaldynamics:cover:0, Glass Pane Cover
+thermaldynamics:cover:0, Melon Cover
+thermaldynamics:cover:0, Brick Stairs Cover
+thermaldynamics:cover:0, Stone Brick Stairs Cover
+thermaldynamics:cover:0, Mycelium Cover
+thermaldynamics:cover:0, Nether Brick Cover
+thermaldynamics:cover:0, Nether Brick Stairs Cover
+thermaldynamics:cover:0, End Portal Cover
+thermaldynamics:cover:0, End Stone Cover
+thermaldynamics:cover:0, Redstone Lamp Cover
+thermaldynamics:cover:0, Oak Wood Slab Cover
+thermaldynamics:cover:0, Spruce Wood Slab Cover
+thermaldynamics:cover:0, Birch Wood Slab Cover
+thermaldynamics:cover:0, Jungle Wood Slab Cover
+thermaldynamics:cover:0, Acacia Wood Slab Cover
+thermaldynamics:cover:0, Dark Oak Wood Slab Cover
+thermaldynamics:cover:0, Sandstone Stairs Cover
+thermaldynamics:cover:0, Emerald Ore Cover
+thermaldynamics:cover:0, Tripwire Hook Cover
+thermaldynamics:cover:0, Block of Emerald Cover
+thermaldynamics:cover:0, Spruce Wood Stairs Cover
+thermaldynamics:cover:0, Birch Wood Stairs Cover
+thermaldynamics:cover:0, Jungle Wood Stairs Cover
+thermaldynamics:cover:0, Block of Redstone Cover
+thermaldynamics:cover:0, Nether Quartz Ore Cover
+thermaldynamics:cover:0, Block of Quartz Cover
+thermaldynamics:cover:0, Chiseled Quartz Block Cover
+thermaldynamics:cover:0, Pillar Quartz Block Cover
+thermaldynamics:cover:0, Quartz Stairs Cover
+thermaldynamics:cover:0, White Terracotta Cover
+thermaldynamics:cover:0, Orange Terracotta Cover
+thermaldynamics:cover:0, Magenta Terracotta Cover
+thermaldynamics:cover:0, Light Blue Terracotta Cover
+thermaldynamics:cover:0, Yellow Terracotta Cover
+thermaldynamics:cover:0, Lime Terracotta Cover
+thermaldynamics:cover:0, Pink Terracotta Cover
+thermaldynamics:cover:0, Gray Terracotta Cover
+thermaldynamics:cover:0, Light Gray Terracotta Cover
+thermaldynamics:cover:0, Cyan Terracotta Cover
+thermaldynamics:cover:0, Purple Terracotta Cover
+thermaldynamics:cover:0, Blue Terracotta Cover
+thermaldynamics:cover:0, Brown Terracotta Cover
+thermaldynamics:cover:0, Green Terracotta Cover
+thermaldynamics:cover:0, Red Terracotta Cover
+thermaldynamics:cover:0, Black Terracotta Cover
+thermaldynamics:cover:0, White Stained Glass Pane Cover
+thermaldynamics:cover:0, Orange Stained Glass Pane Cover
+thermaldynamics:cover:0, Magenta Stained Glass Pane Cover
+thermaldynamics:cover:0, Light Blue Stained Glass Pane Cover
+thermaldynamics:cover:0, Yellow Stained Glass Pane Cover
+thermaldynamics:cover:0, Lime Stained Glass Pane Cover
+thermaldynamics:cover:0, Pink Stained Glass Pane Cover
+thermaldynamics:cover:0, Gray Stained Glass Pane Cover
+thermaldynamics:cover:0, Light Gray Stained Glass Pane Cover
+thermaldynamics:cover:0, Cyan Stained Glass Pane Cover
+thermaldynamics:cover:0, Purple Stained Glass Pane Cover
+thermaldynamics:cover:0, Blue Stained Glass Pane Cover
+thermaldynamics:cover:0, Brown Stained Glass Pane Cover
+thermaldynamics:cover:0, Green Stained Glass Pane Cover
+thermaldynamics:cover:0, Red Stained Glass Pane Cover
+thermaldynamics:cover:0, Black Stained Glass Pane Cover
+thermaldynamics:cover:0, Acacia Leaves Cover
+thermaldynamics:cover:0, Dark Oak Leaves Cover
+thermaldynamics:cover:0, Acacia Wood Cover
+thermaldynamics:cover:0, Dark Oak Wood Cover
+thermaldynamics:cover:0, Acacia Wood Stairs Cover
+thermaldynamics:cover:0, Dark Oak Wood Stairs Cover
+thermaldynamics:cover:0, Slime Block Cover
+thermaldynamics:cover:0, Prismarine Cover
+thermaldynamics:cover:0, Prismarine Bricks Cover
+thermaldynamics:cover:0, Dark Prismarine Cover
+thermaldynamics:cover:0, Sea Lantern Cover
+thermaldynamics:cover:0, Hay Bale Cover
+thermaldynamics:cover:0, Terracotta Cover
+thermaldynamics:cover:0, Block of Coal Cover
+thermaldynamics:cover:0, Packed Ice Cover
+thermaldynamics:cover:0, Red Sandstone Cover
+thermaldynamics:cover:0, Chiseled Red Sandstone Cover
+thermaldynamics:cover:0, Smooth Red Sandstone Cover
+thermaldynamics:cover:0, Red Sandstone Stairs Cover
+thermaldynamics:cover:0, Red Sandstone Slab Cover
+thermaldynamics:cover:0, Purpur Block Cover
+thermaldynamics:cover:0, Purpur Pillar Cover
+thermaldynamics:cover:0, Purpur Stairs Cover
+thermaldynamics:cover:0, Purpur Slab Cover
+thermaldynamics:cover:0, End Stone Bricks Cover
+thermaldynamics:cover:0, Magma Block Cover
+thermaldynamics:cover:0, Nether Wart Block Cover
+thermaldynamics:cover:0, Red Nether Brick Cover
+thermaldynamics:cover:0, Bone Block Cover
+thermaldynamics:cover:0, Observer Cover
+thermaldynamics:cover:0, White Glazed Terracotta Cover
+thermaldynamics:cover:0, Orange Glazed Terracotta Cover
+thermaldynamics:cover:0, Magenta Glazed Terracotta Cover
+thermaldynamics:cover:0, Light Blue Glazed Terracotta Cover
+thermaldynamics:cover:0, Yellow Glazed Terracotta Cover
+thermaldynamics:cover:0, Lime Glazed Terracotta Cover
+thermaldynamics:cover:0, Pink Glazed Terracotta Cover
+thermaldynamics:cover:0, Gray Glazed Terracotta Cover
+thermaldynamics:cover:0, Light Gray Glazed Terracotta Cover
+thermaldynamics:cover:0, Cyan Glazed Terracotta Cover
+thermaldynamics:cover:0, Purple Glazed Terracotta Cover
+thermaldynamics:cover:0, Blue Glazed Terracotta Cover
+thermaldynamics:cover:0, Brown Glazed Terracotta Cover
+thermaldynamics:cover:0, Green Glazed Terracotta Cover
+thermaldynamics:cover:0, Red Glazed Terracotta Cover
+thermaldynamics:cover:0, Black Glazed Terracotta Cover
+thermaldynamics:cover:0, White Concrete Cover
+thermaldynamics:cover:0, Orange Concrete Cover
+thermaldynamics:cover:0, Magenta Concrete Cover
+thermaldynamics:cover:0, Light Blue Concrete Cover
+thermaldynamics:cover:0, Yellow Concrete Cover
+thermaldynamics:cover:0, Lime Concrete Cover
+thermaldynamics:cover:0, Pink Concrete Cover
+thermaldynamics:cover:0, Gray Concrete Cover
+thermaldynamics:cover:0, Light Gray Concrete Cover
+thermaldynamics:cover:0, Cyan Concrete Cover
+thermaldynamics:cover:0, Purple Concrete Cover
+thermaldynamics:cover:0, Blue Concrete Cover
+thermaldynamics:cover:0, Brown Concrete Cover
+thermaldynamics:cover:0, Green Concrete Cover
+thermaldynamics:cover:0, Red Concrete Cover
+thermaldynamics:cover:0, Black Concrete Cover
+thermaldynamics:cover:0, White Concrete Powder Cover
+thermaldynamics:cover:0, Orange Concrete Powder Cover
+thermaldynamics:cover:0, Magenta Concrete Powder Cover
+thermaldynamics:cover:0, Light Blue Concrete Powder Cover
+thermaldynamics:cover:0, Yellow Concrete Powder Cover
+thermaldynamics:cover:0, Lime Concrete Powder Cover
+thermaldynamics:cover:0, Pink Concrete Powder Cover
+thermaldynamics:cover:0, Gray Concrete Powder Cover
+thermaldynamics:cover:0, Light Gray Concrete Powder Cover
+thermaldynamics:cover:0, Cyan Concrete Powder Cover
+thermaldynamics:cover:0, Purple Concrete Powder Cover
+thermaldynamics:cover:0, Blue Concrete Powder Cover
+thermaldynamics:cover:0, Brown Concrete Powder Cover
+thermaldynamics:cover:0, Green Concrete Powder Cover
+thermaldynamics:cover:0, Red Concrete Powder Cover
+thermaldynamics:cover:0, Black Concrete Powder Cover
+thermaldynamics:cover:0, Ender Lilly Cover
+thermaldynamics:cover:0, Magical Planks Cover
+thermaldynamics:cover:0, Magical Wood Cover
+thermaldynamics:cover:0, Diagonal Wood Cover
+thermaldynamics:cover:0, Angel Block Cover
+thermaldynamics:cover:0, Cursed Earth Cover
+thermaldynamics:cover:0, Redstone Clock Cover
+thermaldynamics:cover:0, Compressed Cobblestone Cover
+thermaldynamics:cover:0, Double Compressed Cobblestone Cover
+thermaldynamics:cover:0, Triple Compressed Cobblestone Cover
+thermaldynamics:cover:0, Quadruple Compressed Cobblestone Cover
+thermaldynamics:cover:0, Quintuple Compressed Cobblestone Cover
+thermaldynamics:cover:0, Sextuple Compressed Cobblestone Cover
+thermaldynamics:cover:0, Septuple Compressed Cobblestone Cover
+thermaldynamics:cover:0, Octuple Compressed Cobblestone Cover
+thermaldynamics:cover:0, Compressed Dirt Cover
+thermaldynamics:cover:0, Double Compressed Dirt Cover
+thermaldynamics:cover:0, Triple Compressed Dirt Cover
+thermaldynamics:cover:0, Quadruple Compressed Dirt Cover
+thermaldynamics:cover:0, Compressed Sand Cover
+thermaldynamics:cover:0, Double Compressed Sand Cover
+thermaldynamics:cover:0, Compressed Gravel Cover
+thermaldynamics:cover:0, Double Compressed Gravel Cover
+thermaldynamics:cover:0, Compressed Netherrack Cover
+thermaldynamics:cover:0, Double Compressed Netherrack Cover
+thermaldynamics:cover:0, Triple Compressed Netherrack Cover
+thermaldynamics:cover:0, Quadruple Compressed Netherrack Cover
+thermaldynamics:cover:0, Quintuple Compressed Netherrack Cover
+thermaldynamics:cover:0, Sextuple Compressed Netherrack Cover
+thermaldynamics:cover:0, Red Orchid Cover
+thermaldynamics:cover:0, Power Overload Cover
+thermaldynamics:cover:0, Border Stone Cover
+thermaldynamics:cover:0, Crossed Stone Cover
+thermaldynamics:cover:0, Polished Stone Cover
+thermaldynamics:cover:0, Stoneburnt Cover
+thermaldynamics:cover:0, Sandy Glass Cover
+thermaldynamics:cover:0, Truchet Cover
+thermaldynamics:cover:0, Blue Quartz Cover
+thermaldynamics:cover:0, Quartzburnt Cover
+thermaldynamics:cover:0, Rainbow Stone Cover
+thermaldynamics:cover:0, Thickened Glass Cover
+thermaldynamics:cover:0, Thickened Glass (Bordered) Cover
+thermaldynamics:cover:0, Thickened Glass (Patterned) Cover
+thermaldynamics:cover:0, Dark Glass Cover
+thermaldynamics:cover:0, Glowing Glass Cover
+thermaldynamics:cover:0, Redstone Glass Cover
+thermaldynamics:cover:0, Ethereal Glass Cover
+thermaldynamics:cover:0, Reverse Ethereal Glass Cover
+thermaldynamics:cover:0, Ineffable Glass Cover
+thermaldynamics:cover:0, Dark Ineffable Glass Cover
+thermaldynamics:cover:0, Transfer Pipe Cover
+thermaldynamics:cover:0, Wooden Spikes Cover
+thermaldynamics:cover:0, Stone Spikes Cover
+thermaldynamics:cover:0, Iron Spikes Cover
+thermaldynamics:cover:0, Golden Spikes Cover
+thermaldynamics:cover:0, Diamond Spikes Cover
+thermaldynamics:cover:0, Creative Spikes Cover
+thermaldynamics:cover:0, Redstone Lantern Cover
+thermaldynamics:cover:0, Block of Enchanted Metal Cover
+thermaldynamics:cover:0, Block of Demon Metal Cover
+thermaldynamics:cover:0, Block of Evil Infused Iron Cover
+thermaldynamics:cover:0, Bedrock Bricks Cover
+thermaldynamics:cover:0, Bedrock Slabs Cover
+thermaldynamics:cover:0, Bedrock Cobblestone Cover
+thermaldynamics:cover:0, Ferrous-Juniper Leaves Cover
+thermaldynamics:cover:0, Burnt Ferrous-Juniper Leaves Cover
+thermaldynamics:cover:0, Ferrous-Juniper Log Cover
+thermaldynamics:cover:0, Ferrous-Juniper Log Cover
+thermaldynamics:cover:0, Ferrous-Juniper Sapling Cover
+thermaldynamics:cover:0, Dead Ferrous-Juniper Sapling Cover
+thermaldynamics:cover:0, Ferrous-Juniper Planks Cover
+thermaldynamics:cover:0, Raw Ferrous-Juniper Planks Cover
+thermaldynamics:cover:0, Jaded Ladder Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Sponge Cover
+thermaldynamics:cover:0, Path Cover
+thermaldynamics:cover:0, Rope Ladder Cover
+thermaldynamics:cover:0, Scaffolding Cover
+thermaldynamics:cover:0, Copper Ore Cover
+thermaldynamics:cover:0, Tin Ore Cover
+thermaldynamics:cover:0, Silver Ore Cover
+thermaldynamics:cover:0, Lead Ore Cover
+thermaldynamics:cover:0, Aluminum Ore Cover
+thermaldynamics:cover:0, Nickel Ore Cover
+thermaldynamics:cover:0, Platinum Ore Cover
+thermaldynamics:cover:0, Iridium Ore Cover
+thermaldynamics:cover:0, Mana Infused Ore Cover
+thermaldynamics:cover:0, Oil Sand Cover
+thermaldynamics:cover:0, Oil Shale Cover
+thermaldynamics:cover:0, Destabilized Redstone Ore Cover
+thermaldynamics:cover:0, Energized Netherrack Cover
+thermaldynamics:cover:0, Resonant End Stone Cover
+thermaldynamics:cover:0, Oil Sand Cover
+thermaldynamics:cover:0, Block of Copper Cover
+thermaldynamics:cover:0, Block of Tin Cover
+thermaldynamics:cover:0, Block of Silver Cover
+thermaldynamics:cover:0, Block of Lead Cover
+thermaldynamics:cover:0, Block of Aluminum Cover
+thermaldynamics:cover:0, Block of Nickel Cover
+thermaldynamics:cover:0, Block of Platinum Cover
+thermaldynamics:cover:0, Block of Iridium Cover
+thermaldynamics:cover:0, Block of Mana Infused Metal Cover
+thermaldynamics:cover:0, Block of Steel Cover
+thermaldynamics:cover:0, Block of Electrum Cover
+thermaldynamics:cover:0, Block of Invar Cover
+thermaldynamics:cover:0, Block of Bronze Cover
+thermaldynamics:cover:0, Block of Constantan Cover
+thermaldynamics:cover:0, Block of Signalum Cover
+thermaldynamics:cover:0, Block of Lumium Cover
+thermaldynamics:cover:0, Block of Enderium Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
+thermaldynamics:cover:0, Block of Coal Coke Cover
+thermaldynamics:cover:0, Hardened Copper Glass Cover
+thermaldynamics:cover:0, Hardened Tin Glass Cover
+thermaldynamics:cover:0, Hardened Silver Glass Cover
+thermaldynamics:cover:0, Hardened Glass Cover
+thermaldynamics:cover:0, Hardened Aluminum Glass Cover
+thermaldynamics:cover:0, Hardened Nickel Glass Cover
+thermaldynamics:cover:0, Hardened Platinum Glass Cover
+thermaldynamics:cover:0, Hardened Iridium Glass Cover
+thermaldynamics:cover:0, Hardened Mana Infused Glass Cover
+thermaldynamics:cover:0, Hardened Steel Glass Cover
+thermaldynamics:cover:0, Hardened Electrum Glass Cover
+thermaldynamics:cover:0, Hardened Invar Glass Cover
+thermaldynamics:cover:0, Hardened Bronze Glass Cover
+thermaldynamics:cover:0, Hardened Constantan Glass Cover
+thermaldynamics:cover:0, Hardened Signalum Glass Cover
+thermaldynamics:cover:0, Hardened Lumium Glass Cover
+thermaldynamics:cover:0, Hardened Enderium Glass Cover
+thermaldynamics:cover:0, Black Rockwool Cover
+thermaldynamics:cover:0, Red Rockwool Cover
+thermaldynamics:cover:0, Green Rockwool Cover
+thermaldynamics:cover:0, Brown Rockwool Cover
+thermaldynamics:cover:0, Blue Rockwool Cover
+thermaldynamics:cover:0, Purple Rockwool Cover
+thermaldynamics:cover:0, Cyan Rockwool Cover
+thermaldynamics:cover:0, Light Gray Rockwool Cover
+thermaldynamics:cover:0, Gray Rockwool Cover
+thermaldynamics:cover:0, Pink Rockwool Cover
+thermaldynamics:cover:0, Lime Rockwool Cover
+thermaldynamics:cover:0, Yellow Rockwool Cover
+thermaldynamics:cover:0, Light Blue Rockwool Cover
+thermaldynamics:cover:0, Magenta Rockwool Cover
+thermaldynamics:cover:0, Orange Rockwool Cover
+thermaldynamics:cover:0, White Rockwool Cover
 simplyjetpacks:itemjetpack:0, Creative Jetpack
 simplyjetpacks:itemjetpack:1, Iron Jetpack
 simplyjetpacks:itemjetpack:2, Gold Jetpack
@@ -6604,9 +7079,6 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
-appliedenergistics2:facade:0, Cable Facade - Dust
-appliedenergistics2:facade:0, Cable Facade - End Gravel
-appliedenergistics2:facade:0, Cable Facade - Nether Gravel
 appliedenergistics2:facade:0, Cable Facade - Yellorite Ore Gravel
 appliedenergistics2:facade:0, Cable Facade - Yellorite Sand
 appliedenergistics2:facade:0, Cable Facade - Yellorite Ore Dust
@@ -6661,6 +7133,9 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore Gravel
 appliedenergistics2:facade:0, Cable Facade - Aluminum End Gravel
 appliedenergistics2:facade:0, Cable Facade - Aluminum Sand
 appliedenergistics2:facade:0, Cable Facade - Aluminum Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Dust
+appliedenergistics2:facade:0, Cable Facade - End Gravel
+appliedenergistics2:facade:0, Cable Facade - Nether Gravel
 appliedenergistics2:facade:0, Cable Facade - Yellorite Ore
 appliedenergistics2:facade:0, Cable Facade - Anglesite Ore
 appliedenergistics2:facade:0, Cable Facade - Benitoite Ore
@@ -7655,34 +8130,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -8685,62 +9160,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -8818,6 +9293,127 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
+exnihiloomnia:ore_yellorite_chunk, Broken Yellorite Ore
+exnihiloomnia:ore_yellorite_crushed, Crushed Yellorite Ore
+exnihiloomnia:ore_yellorite_powder, Powdered Yellorite Ore
+exnihiloomnia:ore_yellorite_ingot, Yellorite Ingot
+exnihiloomnia:ore_uranium_chunk, Broken Uranium Ore
+exnihiloomnia:ore_uranium_crushed, Crushed Uranium Ore
+exnihiloomnia:ore_uranium_powder, Powdered Uranium Ore
+exnihiloomnia:ore_uranium_ingot, Uranium Ingot
+exnihiloomnia:ore_tin_chunk, Broken Tin Ore
+exnihiloomnia:ore_tin_end_chunk, Broken End Tin Ore
+exnihiloomnia:ore_tin_crushed, Crushed Tin Ore
+exnihiloomnia:ore_tin_powder, Powdered Tin Ore
+exnihiloomnia:ore_tin_ingot, Tin Ingot
+exnihiloomnia:ore_silver_chunk, Broken Silver Ore
+exnihiloomnia:ore_silver_end_chunk, Broken End Silver Ore
+exnihiloomnia:ore_silver_crushed, Crushed Silver Ore
+exnihiloomnia:ore_silver_powder, Powdered Silver Ore
+exnihiloomnia:ore_silver_ingot, Silver Ingot
+exnihiloomnia:ore_platinum_chunk, Broken Platinum Ore
+exnihiloomnia:ore_platinum_end_chunk, Broken End Platinum Ore
+exnihiloomnia:ore_platinum_crushed, Crushed Platinum Ore
+exnihiloomnia:ore_platinum_powder, Powdered Platinum Ore
+exnihiloomnia:ore_platinum_ingot, Platinum Ingot
+exnihiloomnia:ore_osmium_chunk, Broken Osmium Ore
+exnihiloomnia:ore_osmium_crushed, Crushed Osmium Ore
+exnihiloomnia:ore_osmium_powder, Powdered Osmium Ore
+exnihiloomnia:ore_osmium_ingot, Osmium Ingot
+exnihiloomnia:ore_nickel_chunk, Broken Nickel Ore
+exnihiloomnia:ore_nickel_nether_chunk, Broken Nether Nickel Ore
+exnihiloomnia:ore_nickel_crushed, Crushed Nickel Ore
+exnihiloomnia:ore_nickel_powder, Powdered Nickel Ore
+exnihiloomnia:ore_nickel_ingot, Nickel Ingot
+exnihiloomnia:ore_lead_chunk, Broken Lead Ore
+exnihiloomnia:ore_lead_end_chunk, Broken End Lead Ore
+exnihiloomnia:ore_lead_crushed, Crushed Lead Ore
+exnihiloomnia:ore_lead_powder, Powdered Lead Ore
+exnihiloomnia:ore_lead_ingot, Lead Ingot
+exnihiloomnia:ore_iron_chunk, Broken Iron Ore
+exnihiloomnia:ore_iron_nether_chunk, Broken Nether Iron Ore
+exnihiloomnia:ore_iron_crushed, Crushed Iron Ore
+exnihiloomnia:ore_iron_powder, Powdered Iron Ore
+exnihiloomnia:ore_gold_chunk, Broken Gold Ore
+exnihiloomnia:ore_gold_nether_chunk, Broken Nether Gold Ore
+exnihiloomnia:ore_gold_crushed, Crushed Gold Ore
+exnihiloomnia:ore_gold_powder, Powdered Gold Ore
+exnihiloomnia:ore_draconium_end_chunk, Broken End Draconium Ore
+exnihiloomnia:ore_draconium_crushed, Crushed Draconium Ore
+exnihiloomnia:ore_draconium_powder, Powdered Draconium Ore
+exnihiloomnia:ore_draconium_ingot, Draconium Ingot
+exnihiloomnia:ore_copper_chunk, Broken Copper Ore
+exnihiloomnia:ore_copper_nether_chunk, Broken Nether Copper Ore
+exnihiloomnia:ore_copper_crushed, Crushed Copper Ore
+exnihiloomnia:ore_copper_powder, Powdered Copper Ore
+exnihiloomnia:ore_copper_ingot, Copper Ingot
+exnihiloomnia:ore_cobalt_nether_chunk, Broken Nether Cobalt Ore
+exnihiloomnia:ore_cobalt_crushed, Crushed Cobalt Ore
+exnihiloomnia:ore_cobalt_powder, Powdered Cobalt Ore
+exnihiloomnia:ore_cobalt_ingot, Cobalt Ingot
+exnihiloomnia:ore_ardite_nether_chunk, Broken Nether Ardite Ore
+exnihiloomnia:ore_ardite_crushed, Crushed Ardite Ore
+exnihiloomnia:ore_ardite_powder, Powdered Ardite Ore
+exnihiloomnia:ore_ardite_ingot, Ardite Ingot
+exnihiloomnia:ore_aluminum_chunk, Broken Aluminum Ore
+exnihiloomnia:ore_aluminum_end_chunk, Broken End Aluminum Ore
+exnihiloomnia:ore_aluminum_crushed, Crushed Aluminum Ore
+exnihiloomnia:ore_aluminum_powder, Powdered Aluminum Ore
+exnihiloomnia:ore_aluminum_ingot, Aluminum Ingot
+exnihiloomnia:ore_osmium_gravel, Osmium Ore Gravel
+exnihiloomnia:ore_osmium_sand, Osmium Sand
+exnihiloomnia:ore_osmium_dust, Osmium Ore Dust
+exnihiloomnia:ore_copper_gravel, Copper Ore Gravel
+exnihiloomnia:ore_copper_nether_gravel, Copper Nether Gravel
+exnihiloomnia:ore_copper_sand, Copper Sand
+exnihiloomnia:ore_copper_dust, Copper Ore Dust
+exnihiloomnia:ore_cobalt_nether_gravel, Cobalt Nether Gravel
+exnihiloomnia:ore_cobalt_sand, Cobalt Sand
+exnihiloomnia:ore_cobalt_dust, Cobalt Ore Dust
+exnihiloomnia:ore_tin_gravel, Tin Ore Gravel
+exnihiloomnia:ore_tin_end_gravel, Tin End Gravel
+exnihiloomnia:ore_tin_sand, Tin Sand
+exnihiloomnia:ore_tin_dust, Tin Ore Dust
+exnihiloomnia:ore_uranium_gravel, Uranium Ore Gravel
+exnihiloomnia:ore_uranium_sand, Uranium Sand
+exnihiloomnia:ore_uranium_dust, Uranium Ore Dust
+exnihiloomnia:ore_yellorite_gravel, Yellorite Ore Gravel
+exnihiloomnia:ore_yellorite_sand, Yellorite Sand
+exnihiloomnia:ore_yellorite_dust, Yellorite Ore Dust
+exnihiloomnia:ore_aluminum_gravel, Aluminum Ore Gravel
+exnihiloomnia:ore_aluminum_end_gravel, Aluminum End Gravel
+exnihiloomnia:ore_aluminum_sand, Aluminum Sand
+exnihiloomnia:ore_aluminum_dust, Aluminum Ore Dust
+exnihiloomnia:ore_nickel_gravel, Nickel Ore Gravel
+exnihiloomnia:ore_nickel_nether_gravel, Nickel Nether Gravel
+exnihiloomnia:ore_nickel_sand, Nickel Sand
+exnihiloomnia:ore_nickel_dust, Nickel Ore Dust
+exnihiloomnia:ore_iron_gravel, Iron Ore Gravel
+exnihiloomnia:ore_iron_nether_gravel, Iron Nether Gravel
+exnihiloomnia:ore_iron_sand, Iron Sand
+exnihiloomnia:ore_iron_dust, Iron Ore Dust
+exnihiloomnia:ore_ardite_nether_gravel, Ardite Nether Gravel
+exnihiloomnia:ore_ardite_sand, Ardite Sand
+exnihiloomnia:ore_ardite_dust, Ardite Ore Dust
+exnihiloomnia:ore_draconium_end_gravel, Draconium End Gravel
+exnihiloomnia:ore_draconium_sand, Draconium Sand
+exnihiloomnia:ore_draconium_dust, Draconium Ore Dust
+exnihiloomnia:ore_lead_gravel, Lead Ore Gravel
+exnihiloomnia:ore_lead_end_gravel, Lead End Gravel
+exnihiloomnia:ore_lead_sand, Lead Sand
+exnihiloomnia:ore_lead_dust, Lead Ore Dust
+exnihiloomnia:ore_gold_gravel, Gold Ore Gravel
+exnihiloomnia:ore_gold_nether_gravel, Gold Nether Gravel
+exnihiloomnia:ore_gold_sand, Gold Sand
+exnihiloomnia:ore_gold_dust, Gold Ore Dust
+exnihiloomnia:ore_silver_gravel, Silver Ore Gravel
+exnihiloomnia:ore_silver_end_gravel, Silver End Gravel
+exnihiloomnia:ore_silver_sand, Silver Sand
+exnihiloomnia:ore_silver_dust, Silver Ore Dust
+exnihiloomnia:ore_platinum_gravel, Platinum Ore Gravel
+exnihiloomnia:ore_platinum_end_gravel, Platinum End Gravel
+exnihiloomnia:ore_platinum_sand, Platinum Sand
+exnihiloomnia:ore_platinum_dust, Platinum Ore Dust
 exnihiloomnia:mesh_wood, Wooden Mesh
 exnihiloomnia:mesh_silk, Silk Mesh
 exnihiloomnia:mesh_diamond, Diamond Mesh
@@ -8906,127 +9502,6 @@ exnihiloomnia:barrel_glass, Glass Barrel
 exnihiloomnia:dust, Dust
 exnihiloomnia:end_gravel, End Gravel
 exnihiloomnia:nether_gravel, Nether Gravel
-exnihiloomnia:ore_yellorite_chunk, Broken Yellorite Ore
-exnihiloomnia:ore_yellorite_crushed, Crushed Yellorite Ore
-exnihiloomnia:ore_yellorite_powder, Powdered Yellorite Ore
-exnihiloomnia:ore_yellorite_ingot, Yellorite Ingot
-exnihiloomnia:ore_uranium_chunk, Broken Uranium Ore
-exnihiloomnia:ore_uranium_crushed, Crushed Uranium Ore
-exnihiloomnia:ore_uranium_powder, Powdered Uranium Ore
-exnihiloomnia:ore_uranium_ingot, Uranium Ingot
-exnihiloomnia:ore_tin_chunk, Broken Tin Ore
-exnihiloomnia:ore_tin_end_chunk, Broken End Tin Ore
-exnihiloomnia:ore_tin_crushed, Crushed Tin Ore
-exnihiloomnia:ore_tin_powder, Powdered Tin Ore
-exnihiloomnia:ore_tin_ingot, Tin Ingot
-exnihiloomnia:ore_silver_chunk, Broken Silver Ore
-exnihiloomnia:ore_silver_end_chunk, Broken End Silver Ore
-exnihiloomnia:ore_silver_crushed, Crushed Silver Ore
-exnihiloomnia:ore_silver_powder, Powdered Silver Ore
-exnihiloomnia:ore_silver_ingot, Silver Ingot
-exnihiloomnia:ore_platinum_chunk, Broken Platinum Ore
-exnihiloomnia:ore_platinum_end_chunk, Broken End Platinum Ore
-exnihiloomnia:ore_platinum_crushed, Crushed Platinum Ore
-exnihiloomnia:ore_platinum_powder, Powdered Platinum Ore
-exnihiloomnia:ore_platinum_ingot, Platinum Ingot
-exnihiloomnia:ore_osmium_chunk, Broken Osmium Ore
-exnihiloomnia:ore_osmium_crushed, Crushed Osmium Ore
-exnihiloomnia:ore_osmium_powder, Powdered Osmium Ore
-exnihiloomnia:ore_osmium_ingot, Osmium Ingot
-exnihiloomnia:ore_nickel_chunk, Broken Nickel Ore
-exnihiloomnia:ore_nickel_nether_chunk, Broken Nether Nickel Ore
-exnihiloomnia:ore_nickel_crushed, Crushed Nickel Ore
-exnihiloomnia:ore_nickel_powder, Powdered Nickel Ore
-exnihiloomnia:ore_nickel_ingot, Nickel Ingot
-exnihiloomnia:ore_lead_chunk, Broken Lead Ore
-exnihiloomnia:ore_lead_end_chunk, Broken End Lead Ore
-exnihiloomnia:ore_lead_crushed, Crushed Lead Ore
-exnihiloomnia:ore_lead_powder, Powdered Lead Ore
-exnihiloomnia:ore_lead_ingot, Lead Ingot
-exnihiloomnia:ore_iron_chunk, Broken Iron Ore
-exnihiloomnia:ore_iron_nether_chunk, Broken Nether Iron Ore
-exnihiloomnia:ore_iron_crushed, Crushed Iron Ore
-exnihiloomnia:ore_iron_powder, Powdered Iron Ore
-exnihiloomnia:ore_gold_chunk, Broken Gold Ore
-exnihiloomnia:ore_gold_nether_chunk, Broken Nether Gold Ore
-exnihiloomnia:ore_gold_crushed, Crushed Gold Ore
-exnihiloomnia:ore_gold_powder, Powdered Gold Ore
-exnihiloomnia:ore_draconium_end_chunk, Broken End Draconium Ore
-exnihiloomnia:ore_draconium_crushed, Crushed Draconium Ore
-exnihiloomnia:ore_draconium_powder, Powdered Draconium Ore
-exnihiloomnia:ore_draconium_ingot, Draconium Ingot
-exnihiloomnia:ore_copper_chunk, Broken Copper Ore
-exnihiloomnia:ore_copper_nether_chunk, Broken Nether Copper Ore
-exnihiloomnia:ore_copper_crushed, Crushed Copper Ore
-exnihiloomnia:ore_copper_powder, Powdered Copper Ore
-exnihiloomnia:ore_copper_ingot, Copper Ingot
-exnihiloomnia:ore_cobalt_nether_chunk, Broken Nether Cobalt Ore
-exnihiloomnia:ore_cobalt_crushed, Crushed Cobalt Ore
-exnihiloomnia:ore_cobalt_powder, Powdered Cobalt Ore
-exnihiloomnia:ore_cobalt_ingot, Cobalt Ingot
-exnihiloomnia:ore_ardite_nether_chunk, Broken Nether Ardite Ore
-exnihiloomnia:ore_ardite_crushed, Crushed Ardite Ore
-exnihiloomnia:ore_ardite_powder, Powdered Ardite Ore
-exnihiloomnia:ore_ardite_ingot, Ardite Ingot
-exnihiloomnia:ore_aluminum_chunk, Broken Aluminum Ore
-exnihiloomnia:ore_aluminum_end_chunk, Broken End Aluminum Ore
-exnihiloomnia:ore_aluminum_crushed, Crushed Aluminum Ore
-exnihiloomnia:ore_aluminum_powder, Powdered Aluminum Ore
-exnihiloomnia:ore_aluminum_ingot, Aluminum Ingot
-exnihiloomnia:ore_lead_gravel, Lead Ore Gravel
-exnihiloomnia:ore_lead_end_gravel, Lead End Gravel
-exnihiloomnia:ore_lead_sand, Lead Sand
-exnihiloomnia:ore_lead_dust, Lead Ore Dust
-exnihiloomnia:ore_aluminum_gravel, Aluminum Ore Gravel
-exnihiloomnia:ore_aluminum_end_gravel, Aluminum End Gravel
-exnihiloomnia:ore_aluminum_sand, Aluminum Sand
-exnihiloomnia:ore_aluminum_dust, Aluminum Ore Dust
-exnihiloomnia:ore_silver_gravel, Silver Ore Gravel
-exnihiloomnia:ore_silver_end_gravel, Silver End Gravel
-exnihiloomnia:ore_silver_sand, Silver Sand
-exnihiloomnia:ore_silver_dust, Silver Ore Dust
-exnihiloomnia:ore_copper_gravel, Copper Ore Gravel
-exnihiloomnia:ore_copper_nether_gravel, Copper Nether Gravel
-exnihiloomnia:ore_copper_sand, Copper Sand
-exnihiloomnia:ore_copper_dust, Copper Ore Dust
-exnihiloomnia:ore_platinum_gravel, Platinum Ore Gravel
-exnihiloomnia:ore_platinum_end_gravel, Platinum End Gravel
-exnihiloomnia:ore_platinum_sand, Platinum Sand
-exnihiloomnia:ore_platinum_dust, Platinum Ore Dust
-exnihiloomnia:ore_iron_gravel, Iron Ore Gravel
-exnihiloomnia:ore_iron_nether_gravel, Iron Nether Gravel
-exnihiloomnia:ore_iron_sand, Iron Sand
-exnihiloomnia:ore_iron_dust, Iron Ore Dust
-exnihiloomnia:ore_gold_gravel, Gold Ore Gravel
-exnihiloomnia:ore_gold_nether_gravel, Gold Nether Gravel
-exnihiloomnia:ore_gold_sand, Gold Sand
-exnihiloomnia:ore_gold_dust, Gold Ore Dust
-exnihiloomnia:ore_ardite_nether_gravel, Ardite Nether Gravel
-exnihiloomnia:ore_ardite_sand, Ardite Sand
-exnihiloomnia:ore_ardite_dust, Ardite Ore Dust
-exnihiloomnia:ore_draconium_end_gravel, Draconium End Gravel
-exnihiloomnia:ore_draconium_sand, Draconium Sand
-exnihiloomnia:ore_draconium_dust, Draconium Ore Dust
-exnihiloomnia:ore_uranium_gravel, Uranium Ore Gravel
-exnihiloomnia:ore_uranium_sand, Uranium Sand
-exnihiloomnia:ore_uranium_dust, Uranium Ore Dust
-exnihiloomnia:ore_tin_gravel, Tin Ore Gravel
-exnihiloomnia:ore_tin_end_gravel, Tin End Gravel
-exnihiloomnia:ore_tin_sand, Tin Sand
-exnihiloomnia:ore_tin_dust, Tin Ore Dust
-exnihiloomnia:ore_yellorite_gravel, Yellorite Ore Gravel
-exnihiloomnia:ore_yellorite_sand, Yellorite Sand
-exnihiloomnia:ore_yellorite_dust, Yellorite Ore Dust
-exnihiloomnia:ore_osmium_gravel, Osmium Ore Gravel
-exnihiloomnia:ore_osmium_sand, Osmium Sand
-exnihiloomnia:ore_osmium_dust, Osmium Ore Dust
-exnihiloomnia:ore_cobalt_nether_gravel, Cobalt Nether Gravel
-exnihiloomnia:ore_cobalt_sand, Cobalt Sand
-exnihiloomnia:ore_cobalt_dust, Cobalt Ore Dust
-exnihiloomnia:ore_nickel_gravel, Nickel Ore Gravel
-exnihiloomnia:ore_nickel_nether_gravel, Nickel Nether Gravel
-exnihiloomnia:ore_nickel_sand, Nickel Sand
-exnihiloomnia:ore_nickel_dust, Nickel Ore Dust
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -9078,6 +9553,24 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -9198,24 +9691,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 minefactoryreloaded:milk_fluid, fluid.mfr.milk.fluid.name
 minefactoryreloaded:sludge_fluid, fluid.mfr.sludge.fluid.name
 minefactoryreloaded:sewage_fluid, fluid.mfr.sewage.fluid.name
@@ -9486,6 +9961,23 @@ minefactoryreloaded:needle_gun_ammo_anvil, Needlegun Ammo (Anvil)
 minefactoryreloaded:rocket_launcher, SPAMR Launcher
 minefactoryreloaded:rocket:0, Tracking Self-Propelled Anti Material Rocket
 minefactoryreloaded:rocket:1, Self-Propelled Anti Material Rocket
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.lubricant, Lubricant
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -9643,23 +10135,23 @@ pneumaticcraft:regulator_tube_module, Regulator Tube Module
 pneumaticcraft:charging_module, Charging Module
 pneumaticcraft:logistics_module, Logistics Module
 pneumaticcraft:redstone_module, Redstone Module
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.etchacid, Etching Acid
+thermallogistics:requester:0, Requester
+thermallogistics:requester:1, Hardened Requester
+thermallogistics:requester:2, Reinforced Requester
+thermallogistics:requester:3, Signalum Requester
+thermallogistics:requester:4, Resonant Requester
+thermallogistics:crafter:0, Crafter
+thermallogistics:crafter:1, Hardened Crafter
+thermallogistics:crafter:2, Reinforced Crafter
+thermallogistics:crafter:3, Signalum Crafter
+thermallogistics:crafter:4, Resonant Crafter
+thermallogistics:distributor:0, Distributor
+thermallogistics:distributor:1, Hardened Distributor
+thermallogistics:distributor:2, Reinforced Distributor
+thermallogistics:distributor:3, Signalum Distributor
+thermallogistics:distributor:4, Resonant Distributor
+thermallogistics:manager, Network Manager
+thermallogistics:terminal_item, Terminal
 solcarrot:food_book, Food Book
 base:wrench, Wrench
 chisel_plus:amber_ore, Amber Ore
@@ -9964,21 +10456,23 @@ chisel_plus:fantasy_gold_decor_4, Fantasy
 chisel_plus:fantasy_pillar_decorated, Fantasy
 chisel_plus:fantasy_pillar, Fantasy
 chisel_plus:fantasy_plate, Fantasy
-hardcorequesting:quest_portal, tile.hqm:quest_portal.name
-hardcorequesting:hqm_invalid_item, Invalid Item
-hardcorequesting:rottenheart:0, Rotten heart
-hardcorequesting:heart:0, Full heart
+contenttweaker:porcelainclay, Porcelain Clay
+contenttweaker:cooked_silkworm, Cooked Silkworm
 hardcorequesting:quest_book, item.hqm:quest_book.name
-hardcorequesting:halfheart:0, Half a heart
+hardcorequesting:quarterheart:0, Quarter of a heart
 hardcorequesting:bags:0, Reward Bag
 hardcorequesting:bags:1, Reward Bag
 hardcorequesting:bags:2, Reward Bag
 hardcorequesting:bags:3, Reward Bag
 hardcorequesting:bags:4, Reward Bag
-hardcorequesting:item_barrel, Quest Delivery System
+hardcorequesting:halfheart:0, Half a heart
 hardcorequesting:quest_tracker, Quest Tracking System
-hardcorequesting:quarterheart:0, Quarter of a heart
 hardcorequesting:threequarts:0, Three quarters of a heart
+hardcorequesting:item_barrel, Quest Delivery System
+hardcorequesting:rottenheart:0, Rotten heart
+hardcorequesting:heart:0, Full heart
+hardcorequesting:quest_portal, tile.hqm:quest_portal.name
+hardcorequesting:hqm_invalid_item, Invalid Item
 ichunutil:compact_porkchop, Compact Raw Porkchop
 harvestcraft:blackberryitem, Blackberry
 harvestcraft:blackberryseeditem, Blackberry Seed
