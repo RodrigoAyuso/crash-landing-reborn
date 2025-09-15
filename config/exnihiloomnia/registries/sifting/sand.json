@@ -6,14 +6,86 @@
     "time": 20,
     "rewards": [
         {
-            "item": "minecraft:redstone",
-            "count": 4,
-            "chance": 0.4,
+            "item": "chisel:limestone2",
+            "data": 7,
+            "chance": 0.25,
+            "type": "junk"
+        },
+        {
+            "item": "exnihiloomnia:ore_iron_crushed",
+            "chance": 0.20,
+            "type": "ores"
+        },
+        {
+            "item": "appliedenergistics2:material",
+            "chance": 0.17,
             "type": "resource"
         },
         {
-            "item": "minecraft:quartz",
-            "chance": 0.1,
+            "item": "exnihiloomnia:ore_copper_crushed",
+            "chance": 0.14,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_tin_crushed",
+            "chance": 0.14,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_lead_crushed",
+            "chance": 0.11,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_aluminum_crushed",
+            "chance": 0.10,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_gold_crushed",
+            "chance": 0.09,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_gold_crushed",
+            "chance": 0.09,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_silver_crushed",
+            "chance": 0.09,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_nickel_crushed",
+            "chance": 0.09,
+            "type": "ores"
+        },
+        {
+            "item": "minecraft:cactus",
+            "chance": 0.03,
+            "type": "resource"
+        },
+        {
+            "item": "minecraft:dye",
+            "data": 3,
+            "chance": 0.03,
+            "type": "resource"
+        },
+        {
+            "item": "exnihiloomnia:ore_platinum_crushed",
+            "chance": 0.03,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:tree_seed",
+            "data": 3,
+            "chance": 0.02,
+            "type": "plant"
+        },
+        {
+            "item": "thermalfoumdation:material",
+            "chance": 0.01,
             "type": "resource"
         }
     ]

@@ -6,73 +6,83 @@
     "rewards": [
         {
             "item": "exnihiloomnia:small_stone",
-            "chance": 0.2,
+            "chance": 1.0,
+            "count": 2,
             "type": "junk"
         },
         {
             "item": "exnihiloomnia:small_stone",
-            "chance": 0.1,
+            "chance": 0.5,
+            "count": 2,
             "type": "junk"
         },
         {
             "item": "exnihiloomnia:small_stone",
-            "chance": 0.05,
+            "chance": 0.33,
+            "count": 2,
             "type": "junk"
         },
         {
-            "item": "minecraft:wheat_seeds",
+            "item": "harvestcraft:riceseeditem",
             "chance": 0.07,
             "type": "plant"
         },
         {
-            "item": "minecraft:pumpkin_seeds",
+            "item": "contenttweaker:grass_seeds",
+            "chance": 0.07,
+            "type": "plant"
+        },
+        {
+            "item": "harvestcraft:grapeseeditem",
             "chance": 0.03,
             "type": "plant"
         },
         {
-            "item": "minecraft:melon_seeds",
-            "chance": 0.04,
+            "item": "harvestcraft:sunflowerseeditem",
+            "chance": 0.03,
             "type": "plant"
         },
         {
-            "item": "minecraft:beetroot_seeds",
+            "item": "minecraft:reeds",
             "chance": 0.03,
+            "type": "plant"
+        },
+        {
+            "item": "minefactoryreloaded:rubber_wood_sapling",
+            "chance": 0.02,
+            "type": "plant"
+        },
+        {
+            "item": "harvestcraft:tomatoseeditem",
+            "chance": 0.02,
+            "type": "plant"
+        },
+        {
+            "item": "harvestcraft:peanutseeditem",
+            "chance": 0.02,
             "type": "plant"
         },
         {
             "item": "exnihiloomnia:tree_seed",
             "data": 0,
-            "chance": 0.06,
-            "type": "plant"
-        },
-        {
-            "item": "exnihiloomnia:tree_seed",
-            "data": 1,
-            "chance": 0.04,
+            "chance": 0.02,
             "type": "plant"
         },
         {
             "item": "exnihiloomnia:tree_seed",
             "data": 2,
-            "chance": 0.02,
-            "type": "plant"
-        },
-        {
-            "item": "exnihiloomnia:tree_seed",
-            "data": 3,
             "chance": 0.01,
             "type": "plant"
         },
         {
             "item": "exnihiloomnia:tree_seed",
-            "data": 4,
-            "chance": 0.02,
+            "data": 1,
+            "chance": 0.01,
             "type": "plant"
         },
         {
-            "item": "exnihiloomnia:tree_seed",
-            "data": 5,
-            "chance": 0.02,
+            "item": "harvestcraft:soybeanseeditem",
+            "chance": 0.01,
             "type": "plant"
         }
     ]

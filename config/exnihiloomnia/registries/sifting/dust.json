@@ -1,0 +1,99 @@
+{
+    "input": {
+        "item": "exnihiloomnia:dust",
+        "data": 0
+    },
+    "rewards": [
+        {
+            "item": "exnihiloomnia:small_stone",
+            "chance": 0.2,
+            "type": "junk"
+        },
+        {
+            "item": "minecraft:dye",
+            "data": 15,
+            "chance": 0.2,
+            "type": "resource"
+        },
+        {
+            "item": "harvestcraft:saltitem",
+            "chance": 0.2,
+            "type": "junk"
+        },
+        {
+            "item": "exnihiloomnia:ore_iron_powder",
+            "chance": 0.17,
+            "type": "ores"
+        },
+        {
+            "item": "appliedenergistics2:material",
+            "chance": 0.17,
+            "type": "resource"
+        },
+        {
+            "item": "minecraft:redstone",
+            "chance": 0.13,
+            "type": "resource"
+        },
+        {
+            "item": "exnihiloomnia:ore_aluminum_powder",
+            "chance": 0.10,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_copper_powder",
+            "chance": 0.08,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_tin_powder",
+            "chance": 0.08,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_lead_powder",
+            "chance": 0.08,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_silver_powder",
+            "chance": 0.08,
+            "type": "ores"
+        },
+        {
+            "item": "minecraft:gunpoweder",
+            "chance": 0.07,
+            "type": "resource"
+        },
+        {
+            "item": "exnihiloomnia:ore_gold_powder",
+            "chance": 0.07,
+            "type": "ores"
+        },
+        {
+            "item": "minecraft:glowstone_dust",
+            "chance": 0.06,
+            "type": "resource"
+        },
+        {
+            "item": "minecraft:blaze_powder",
+            "chance": 0.05,
+            "type": "resource"
+        },
+        {
+            "item": "bigreactors:dustyellorium",
+            "chance": 0.02,
+            "type": "resource"
+        },
+        {
+            "item": "minecraft:egg",
+            "chance": 0.01,
+            "type": "junk"
+        },
+        {
+            "item": "minecraft:fish",
+            "chance": 0.01,
+            "type": "junk"
+        }
+    ]
+}
