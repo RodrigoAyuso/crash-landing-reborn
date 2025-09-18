@@ -1,0 +1,39 @@
+{
+    "input": {
+        "item": "minecraft:soul_sand",
+        "data": 0
+    },
+    "time": 20,
+    "rewards": [
+        {
+            "item": "minecraft:quartz",
+            "chance": 1.0,
+            "type": "resource"
+        },
+        {
+            "item": "minecraft:quartz",
+            "chance": 0.33,
+            "type": "resource"
+        },
+        {
+            "item": "minecraft:nether_wart",
+            "chance": 0.05,
+            "type": "plant"
+        },
+        {
+            "item": "minecraft:ghast_tear",
+            "chance": 0.02,
+            "type": "resource"
+        },
+        {
+            "item": "exnihiloomnia:ore_cobalt_crushed",
+            "chance": 0.01,
+            "type": "ores"
+        },
+        {
+            "item": "exnihiloomnia:ore_ardite_crushed",
+            "chance": 0.01,
+            "type": "ores"
+        }
+    ]
+}

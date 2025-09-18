@@ -7079,60 +7079,6 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
-appliedenergistics2:facade:0, Cable Facade - Yellorite Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Yellorite Sand
-appliedenergistics2:facade:0, Cable Facade - Yellorite Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Uranium Sand
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Tin Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Tin End Gravel
-appliedenergistics2:facade:0, Cable Facade - Tin Sand
-appliedenergistics2:facade:0, Cable Facade - Tin Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Silver Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Silver End Gravel
-appliedenergistics2:facade:0, Cable Facade - Silver Sand
-appliedenergistics2:facade:0, Cable Facade - Silver Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Platinum Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Platinum End Gravel
-appliedenergistics2:facade:0, Cable Facade - Platinum Sand
-appliedenergistics2:facade:0, Cable Facade - Platinum Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Osmium Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Osmium Sand
-appliedenergistics2:facade:0, Cable Facade - Osmium Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Nickel Nether Gravel
-appliedenergistics2:facade:0, Cable Facade - Nickel Sand
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Lead Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Lead End Gravel
-appliedenergistics2:facade:0, Cable Facade - Lead Sand
-appliedenergistics2:facade:0, Cable Facade - Lead Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Iron Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Iron Nether Gravel
-appliedenergistics2:facade:0, Cable Facade - Iron Sand
-appliedenergistics2:facade:0, Cable Facade - Iron Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Gold Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Gold Nether Gravel
-appliedenergistics2:facade:0, Cable Facade - Gold Sand
-appliedenergistics2:facade:0, Cable Facade - Gold Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Draconium End Gravel
-appliedenergistics2:facade:0, Cable Facade - Draconium Sand
-appliedenergistics2:facade:0, Cable Facade - Draconium Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Copper Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Copper Nether Gravel
-appliedenergistics2:facade:0, Cable Facade - Copper Sand
-appliedenergistics2:facade:0, Cable Facade - Copper Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Cobalt Nether Gravel
-appliedenergistics2:facade:0, Cable Facade - Cobalt Sand
-appliedenergistics2:facade:0, Cable Facade - Cobalt Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Ardite Nether Gravel
-appliedenergistics2:facade:0, Cable Facade - Ardite Sand
-appliedenergistics2:facade:0, Cable Facade - Ardite Ore Dust
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore Gravel
-appliedenergistics2:facade:0, Cable Facade - Aluminum End Gravel
-appliedenergistics2:facade:0, Cable Facade - Aluminum Sand
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore Dust
 appliedenergistics2:facade:0, Cable Facade - Dust
 appliedenergistics2:facade:0, Cable Facade - End Gravel
 appliedenergistics2:facade:0, Cable Facade - Nether Gravel
@@ -7436,6 +7382,51 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Block
 appliedenergistics2:facade:0, Cable Facade - Copper Block
 appliedenergistics2:facade:0, Cable Facade - Tin Block
 appliedenergistics2:facade:0, Cable Facade - Bronze Block
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Aluminum End Gravel
+appliedenergistics2:facade:0, Cable Facade - Aluminum Sand
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Ardite Nether Gravel
+appliedenergistics2:facade:0, Cable Facade - Ardite Sand
+appliedenergistics2:facade:0, Cable Facade - Ardite Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Cobalt Nether Gravel
+appliedenergistics2:facade:0, Cable Facade - Cobalt Sand
+appliedenergistics2:facade:0, Cable Facade - Cobalt Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Copper Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Copper Nether Gravel
+appliedenergistics2:facade:0, Cable Facade - Copper Sand
+appliedenergistics2:facade:0, Cable Facade - Copper Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Gold Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Gold Nether Gravel
+appliedenergistics2:facade:0, Cable Facade - Gold Sand
+appliedenergistics2:facade:0, Cable Facade - Gold Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Iron Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Iron Nether Gravel
+appliedenergistics2:facade:0, Cable Facade - Iron Sand
+appliedenergistics2:facade:0, Cable Facade - Iron Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Lead Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Lead End Gravel
+appliedenergistics2:facade:0, Cable Facade - Lead Sand
+appliedenergistics2:facade:0, Cable Facade - Lead Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Nickel Nether Gravel
+appliedenergistics2:facade:0, Cable Facade - Nickel Sand
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Platinum Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Platinum End Gravel
+appliedenergistics2:facade:0, Cable Facade - Platinum Sand
+appliedenergistics2:facade:0, Cable Facade - Platinum Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Silver Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Silver End Gravel
+appliedenergistics2:facade:0, Cable Facade - Silver Sand
+appliedenergistics2:facade:0, Cable Facade - Silver Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Tin Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Tin End Gravel
+appliedenergistics2:facade:0, Cable Facade - Tin Sand
+appliedenergistics2:facade:0, Cable Facade - Tin Ore Dust
+appliedenergistics2:facade:0, Cable Facade - Uranium Ore Gravel
+appliedenergistics2:facade:0, Cable Facade - Uranium Sand
+appliedenergistics2:facade:0, Cable Facade - Uranium Ore Dust
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -8130,34 +8121,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -9160,62 +9151,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -9293,138 +9284,17 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
-exnihiloomnia:ore_yellorite_chunk, Broken Yellorite Ore
-exnihiloomnia:ore_yellorite_crushed, Crushed Yellorite Ore
-exnihiloomnia:ore_yellorite_powder, Powdered Yellorite Ore
-exnihiloomnia:ore_yellorite_ingot, Yellorite Ingot
-exnihiloomnia:ore_uranium_chunk, Broken Uranium Ore
-exnihiloomnia:ore_uranium_crushed, Crushed Uranium Ore
-exnihiloomnia:ore_uranium_powder, Powdered Uranium Ore
-exnihiloomnia:ore_uranium_ingot, Uranium Ingot
-exnihiloomnia:ore_tin_chunk, Broken Tin Ore
-exnihiloomnia:ore_tin_end_chunk, Broken End Tin Ore
-exnihiloomnia:ore_tin_crushed, Crushed Tin Ore
-exnihiloomnia:ore_tin_powder, Powdered Tin Ore
-exnihiloomnia:ore_tin_ingot, Tin Ingot
-exnihiloomnia:ore_silver_chunk, Broken Silver Ore
-exnihiloomnia:ore_silver_end_chunk, Broken End Silver Ore
-exnihiloomnia:ore_silver_crushed, Crushed Silver Ore
-exnihiloomnia:ore_silver_powder, Powdered Silver Ore
-exnihiloomnia:ore_silver_ingot, Silver Ingot
-exnihiloomnia:ore_platinum_chunk, Broken Platinum Ore
-exnihiloomnia:ore_platinum_end_chunk, Broken End Platinum Ore
-exnihiloomnia:ore_platinum_crushed, Crushed Platinum Ore
-exnihiloomnia:ore_platinum_powder, Powdered Platinum Ore
-exnihiloomnia:ore_platinum_ingot, Platinum Ingot
-exnihiloomnia:ore_osmium_chunk, Broken Osmium Ore
-exnihiloomnia:ore_osmium_crushed, Crushed Osmium Ore
-exnihiloomnia:ore_osmium_powder, Powdered Osmium Ore
-exnihiloomnia:ore_osmium_ingot, Osmium Ingot
-exnihiloomnia:ore_nickel_chunk, Broken Nickel Ore
-exnihiloomnia:ore_nickel_nether_chunk, Broken Nether Nickel Ore
-exnihiloomnia:ore_nickel_crushed, Crushed Nickel Ore
-exnihiloomnia:ore_nickel_powder, Powdered Nickel Ore
-exnihiloomnia:ore_nickel_ingot, Nickel Ingot
-exnihiloomnia:ore_lead_chunk, Broken Lead Ore
-exnihiloomnia:ore_lead_end_chunk, Broken End Lead Ore
-exnihiloomnia:ore_lead_crushed, Crushed Lead Ore
-exnihiloomnia:ore_lead_powder, Powdered Lead Ore
-exnihiloomnia:ore_lead_ingot, Lead Ingot
-exnihiloomnia:ore_iron_chunk, Broken Iron Ore
-exnihiloomnia:ore_iron_nether_chunk, Broken Nether Iron Ore
-exnihiloomnia:ore_iron_crushed, Crushed Iron Ore
-exnihiloomnia:ore_iron_powder, Powdered Iron Ore
-exnihiloomnia:ore_gold_chunk, Broken Gold Ore
-exnihiloomnia:ore_gold_nether_chunk, Broken Nether Gold Ore
-exnihiloomnia:ore_gold_crushed, Crushed Gold Ore
-exnihiloomnia:ore_gold_powder, Powdered Gold Ore
-exnihiloomnia:ore_draconium_end_chunk, Broken End Draconium Ore
-exnihiloomnia:ore_draconium_crushed, Crushed Draconium Ore
-exnihiloomnia:ore_draconium_powder, Powdered Draconium Ore
-exnihiloomnia:ore_draconium_ingot, Draconium Ingot
-exnihiloomnia:ore_copper_chunk, Broken Copper Ore
-exnihiloomnia:ore_copper_nether_chunk, Broken Nether Copper Ore
-exnihiloomnia:ore_copper_crushed, Crushed Copper Ore
-exnihiloomnia:ore_copper_powder, Powdered Copper Ore
-exnihiloomnia:ore_copper_ingot, Copper Ingot
-exnihiloomnia:ore_cobalt_nether_chunk, Broken Nether Cobalt Ore
-exnihiloomnia:ore_cobalt_crushed, Crushed Cobalt Ore
-exnihiloomnia:ore_cobalt_powder, Powdered Cobalt Ore
-exnihiloomnia:ore_cobalt_ingot, Cobalt Ingot
-exnihiloomnia:ore_ardite_nether_chunk, Broken Nether Ardite Ore
-exnihiloomnia:ore_ardite_crushed, Crushed Ardite Ore
-exnihiloomnia:ore_ardite_powder, Powdered Ardite Ore
-exnihiloomnia:ore_ardite_ingot, Ardite Ingot
-exnihiloomnia:ore_aluminum_chunk, Broken Aluminum Ore
-exnihiloomnia:ore_aluminum_end_chunk, Broken End Aluminum Ore
-exnihiloomnia:ore_aluminum_crushed, Crushed Aluminum Ore
-exnihiloomnia:ore_aluminum_powder, Powdered Aluminum Ore
-exnihiloomnia:ore_aluminum_ingot, Aluminum Ingot
-exnihiloomnia:ore_osmium_gravel, Osmium Ore Gravel
-exnihiloomnia:ore_osmium_sand, Osmium Sand
-exnihiloomnia:ore_osmium_dust, Osmium Ore Dust
-exnihiloomnia:ore_copper_gravel, Copper Ore Gravel
-exnihiloomnia:ore_copper_nether_gravel, Copper Nether Gravel
-exnihiloomnia:ore_copper_sand, Copper Sand
-exnihiloomnia:ore_copper_dust, Copper Ore Dust
-exnihiloomnia:ore_cobalt_nether_gravel, Cobalt Nether Gravel
-exnihiloomnia:ore_cobalt_sand, Cobalt Sand
-exnihiloomnia:ore_cobalt_dust, Cobalt Ore Dust
-exnihiloomnia:ore_tin_gravel, Tin Ore Gravel
-exnihiloomnia:ore_tin_end_gravel, Tin End Gravel
-exnihiloomnia:ore_tin_sand, Tin Sand
-exnihiloomnia:ore_tin_dust, Tin Ore Dust
-exnihiloomnia:ore_uranium_gravel, Uranium Ore Gravel
-exnihiloomnia:ore_uranium_sand, Uranium Sand
-exnihiloomnia:ore_uranium_dust, Uranium Ore Dust
-exnihiloomnia:ore_yellorite_gravel, Yellorite Ore Gravel
-exnihiloomnia:ore_yellorite_sand, Yellorite Sand
-exnihiloomnia:ore_yellorite_dust, Yellorite Ore Dust
-exnihiloomnia:ore_aluminum_gravel, Aluminum Ore Gravel
-exnihiloomnia:ore_aluminum_end_gravel, Aluminum End Gravel
-exnihiloomnia:ore_aluminum_sand, Aluminum Sand
-exnihiloomnia:ore_aluminum_dust, Aluminum Ore Dust
-exnihiloomnia:ore_nickel_gravel, Nickel Ore Gravel
-exnihiloomnia:ore_nickel_nether_gravel, Nickel Nether Gravel
-exnihiloomnia:ore_nickel_sand, Nickel Sand
-exnihiloomnia:ore_nickel_dust, Nickel Ore Dust
-exnihiloomnia:ore_iron_gravel, Iron Ore Gravel
-exnihiloomnia:ore_iron_nether_gravel, Iron Nether Gravel
-exnihiloomnia:ore_iron_sand, Iron Sand
-exnihiloomnia:ore_iron_dust, Iron Ore Dust
-exnihiloomnia:ore_ardite_nether_gravel, Ardite Nether Gravel
-exnihiloomnia:ore_ardite_sand, Ardite Sand
-exnihiloomnia:ore_ardite_dust, Ardite Ore Dust
-exnihiloomnia:ore_draconium_end_gravel, Draconium End Gravel
-exnihiloomnia:ore_draconium_sand, Draconium Sand
-exnihiloomnia:ore_draconium_dust, Draconium Ore Dust
-exnihiloomnia:ore_lead_gravel, Lead Ore Gravel
-exnihiloomnia:ore_lead_end_gravel, Lead End Gravel
-exnihiloomnia:ore_lead_sand, Lead Sand
-exnihiloomnia:ore_lead_dust, Lead Ore Dust
-exnihiloomnia:ore_gold_gravel, Gold Ore Gravel
-exnihiloomnia:ore_gold_nether_gravel, Gold Nether Gravel
-exnihiloomnia:ore_gold_sand, Gold Sand
-exnihiloomnia:ore_gold_dust, Gold Ore Dust
-exnihiloomnia:ore_silver_gravel, Silver Ore Gravel
-exnihiloomnia:ore_silver_end_gravel, Silver End Gravel
-exnihiloomnia:ore_silver_sand, Silver Sand
-exnihiloomnia:ore_silver_dust, Silver Ore Dust
-exnihiloomnia:ore_platinum_gravel, Platinum Ore Gravel
-exnihiloomnia:ore_platinum_end_gravel, Platinum End Gravel
-exnihiloomnia:ore_platinum_sand, Platinum Sand
-exnihiloomnia:ore_platinum_dust, Platinum Ore Dust
-exnihiloomnia:mesh_wood, Wooden Mesh
-exnihiloomnia:mesh_silk, Silk Mesh
-exnihiloomnia:mesh_diamond, Diamond Mesh
-exnihiloomnia:mesh_gold, Golden Mesh
-exnihiloomnia:crook, item.exnihiloomnia.crook.name
-exnihiloomnia:crook_bone, item.exnihiloomnia.crook_bone.name
-exnihiloomnia:hammer_wood, Wooden Hammer
-exnihiloomnia:hammer_stone, Stone Hammer
-exnihiloomnia:hammer_iron, Iron Hammer
-exnihiloomnia:hammer_gold, Golden Hammer
-exnihiloomnia:hammer_diamond, Diamond Hammer
+exnihiloomnia:wooden_mesh, Wooden Mesh
+exnihiloomnia:silk_mesh, Silk Mesh
+exnihiloomnia:diamond_mesh, Diamond Mesh
+exnihiloomnia:gold_mesh, Golden Mesh
+exnihiloomnia:wooden_crook, Crook
+exnihiloomnia:bone_crook, Bone Crook
+exnihiloomnia:wooden_hammer, Wooden Hammer
+exnihiloomnia:stone_hammer, Stone Hammer
+exnihiloomnia:iron_hammer, Iron Hammer
+exnihiloomnia:gold_hammer, Golden Hammer
+exnihiloomnia:diamond_hammer, Diamond Hammer
 exnihiloomnia:tree_seed:0, Oak Seed
 exnihiloomnia:tree_seed:1, Spruce Seed
 exnihiloomnia:tree_seed:2, Birch Seed
@@ -9435,6 +9305,7 @@ exnihiloomnia:small_stone, Small Stone
 exnihiloomnia:astrolabe, Jade Astrolabe
 exnihiloomnia:ash, Pile of Ash
 exnihiloomnia:silkworm, Silkworm
+exnihiloomnia:porcelain_clay, Porcelain Clay
 exnihiloomnia:sieve:0, Oak Sieve
 exnihiloomnia:sieve:1, Spruce Sieve
 exnihiloomnia:sieve:2, Birch Sieve
@@ -9502,6 +9373,106 @@ exnihiloomnia:barrel_glass, Glass Barrel
 exnihiloomnia:dust, Dust
 exnihiloomnia:end_gravel, End Gravel
 exnihiloomnia:nether_gravel, Nether Gravel
+exnihiloomnia:ore_aluminum_chunk, Broken Aluminum Ore
+exnihiloomnia:ore_aluminum_end_chunk, Broken End Aluminum Ore
+exnihiloomnia:ore_aluminum_crushed, Crushed Aluminum Ore
+exnihiloomnia:ore_aluminum_powder, Powdered Aluminum Ore
+exnihiloomnia:ore_aluminum_ingot, Aluminum Ingot
+exnihiloomnia:ore_ardite_nether_chunk, Broken Nether Ardite Ore
+exnihiloomnia:ore_ardite_crushed, Crushed Ardite Ore
+exnihiloomnia:ore_ardite_powder, Powdered Ardite Ore
+exnihiloomnia:ore_ardite_ingot, Ardite Ingot
+exnihiloomnia:ore_cobalt_nether_chunk, Broken Nether Cobalt Ore
+exnihiloomnia:ore_cobalt_crushed, Crushed Cobalt Ore
+exnihiloomnia:ore_cobalt_powder, Powdered Cobalt Ore
+exnihiloomnia:ore_cobalt_ingot, Cobalt Ingot
+exnihiloomnia:ore_copper_chunk, Broken Copper Ore
+exnihiloomnia:ore_copper_nether_chunk, Broken Nether Copper Ore
+exnihiloomnia:ore_copper_crushed, Crushed Copper Ore
+exnihiloomnia:ore_copper_powder, Powdered Copper Ore
+exnihiloomnia:ore_copper_ingot, Copper Ingot
+exnihiloomnia:ore_gold_chunk, Broken Gold Ore
+exnihiloomnia:ore_gold_nether_chunk, Broken Nether Gold Ore
+exnihiloomnia:ore_gold_crushed, Crushed Gold Ore
+exnihiloomnia:ore_gold_powder, Powdered Gold Ore
+exnihiloomnia:ore_iron_chunk, Broken Iron Ore
+exnihiloomnia:ore_iron_nether_chunk, Broken Nether Iron Ore
+exnihiloomnia:ore_iron_crushed, Crushed Iron Ore
+exnihiloomnia:ore_iron_powder, Powdered Iron Ore
+exnihiloomnia:ore_lead_chunk, Broken Lead Ore
+exnihiloomnia:ore_lead_end_chunk, Broken End Lead Ore
+exnihiloomnia:ore_lead_crushed, Crushed Lead Ore
+exnihiloomnia:ore_lead_powder, Powdered Lead Ore
+exnihiloomnia:ore_lead_ingot, Lead Ingot
+exnihiloomnia:ore_nickel_chunk, Broken Nickel Ore
+exnihiloomnia:ore_nickel_nether_chunk, Broken Nether Nickel Ore
+exnihiloomnia:ore_nickel_crushed, Crushed Nickel Ore
+exnihiloomnia:ore_nickel_powder, Powdered Nickel Ore
+exnihiloomnia:ore_nickel_ingot, Nickel Ingot
+exnihiloomnia:ore_platinum_chunk, Broken Platinum Ore
+exnihiloomnia:ore_platinum_end_chunk, Broken End Platinum Ore
+exnihiloomnia:ore_platinum_crushed, Crushed Platinum Ore
+exnihiloomnia:ore_platinum_powder, Powdered Platinum Ore
+exnihiloomnia:ore_platinum_ingot, Platinum Ingot
+exnihiloomnia:ore_silver_chunk, Broken Silver Ore
+exnihiloomnia:ore_silver_end_chunk, Broken End Silver Ore
+exnihiloomnia:ore_silver_crushed, Crushed Silver Ore
+exnihiloomnia:ore_silver_powder, Powdered Silver Ore
+exnihiloomnia:ore_silver_ingot, Silver Ingot
+exnihiloomnia:ore_tin_chunk, Broken Tin Ore
+exnihiloomnia:ore_tin_end_chunk, Broken End Tin Ore
+exnihiloomnia:ore_tin_crushed, Crushed Tin Ore
+exnihiloomnia:ore_tin_powder, Powdered Tin Ore
+exnihiloomnia:ore_tin_ingot, Tin Ingot
+exnihiloomnia:ore_uranium_chunk, Broken Uranium Ore
+exnihiloomnia:ore_uranium_crushed, Crushed Uranium Ore
+exnihiloomnia:ore_uranium_powder, Powdered Uranium Ore
+exnihiloomnia:ore_uranium_ingot, Uranium Ingot
+exnihiloomnia:ore_gold_gravel, Gold Ore Gravel
+exnihiloomnia:ore_gold_nether_gravel, Gold Nether Gravel
+exnihiloomnia:ore_gold_sand, Gold Sand
+exnihiloomnia:ore_gold_dust, Gold Ore Dust
+exnihiloomnia:ore_nickel_gravel, Nickel Ore Gravel
+exnihiloomnia:ore_nickel_nether_gravel, Nickel Nether Gravel
+exnihiloomnia:ore_nickel_sand, Nickel Sand
+exnihiloomnia:ore_nickel_dust, Nickel Ore Dust
+exnihiloomnia:ore_aluminum_gravel, Aluminum Ore Gravel
+exnihiloomnia:ore_aluminum_end_gravel, Aluminum End Gravel
+exnihiloomnia:ore_aluminum_sand, Aluminum Sand
+exnihiloomnia:ore_aluminum_dust, Aluminum Ore Dust
+exnihiloomnia:ore_copper_gravel, Copper Ore Gravel
+exnihiloomnia:ore_copper_nether_gravel, Copper Nether Gravel
+exnihiloomnia:ore_copper_sand, Copper Sand
+exnihiloomnia:ore_copper_dust, Copper Ore Dust
+exnihiloomnia:ore_silver_gravel, Silver Ore Gravel
+exnihiloomnia:ore_silver_end_gravel, Silver End Gravel
+exnihiloomnia:ore_silver_sand, Silver Sand
+exnihiloomnia:ore_silver_dust, Silver Ore Dust
+exnihiloomnia:ore_tin_gravel, Tin Ore Gravel
+exnihiloomnia:ore_tin_end_gravel, Tin End Gravel
+exnihiloomnia:ore_tin_sand, Tin Sand
+exnihiloomnia:ore_tin_dust, Tin Ore Dust
+exnihiloomnia:ore_iron_gravel, Iron Ore Gravel
+exnihiloomnia:ore_iron_nether_gravel, Iron Nether Gravel
+exnihiloomnia:ore_iron_sand, Iron Sand
+exnihiloomnia:ore_iron_dust, Iron Ore Dust
+exnihiloomnia:ore_lead_gravel, Lead Ore Gravel
+exnihiloomnia:ore_lead_end_gravel, Lead End Gravel
+exnihiloomnia:ore_lead_sand, Lead Sand
+exnihiloomnia:ore_lead_dust, Lead Ore Dust
+exnihiloomnia:ore_ardite_nether_gravel, Ardite Nether Gravel
+exnihiloomnia:ore_ardite_sand, Ardite Sand
+exnihiloomnia:ore_ardite_dust, Ardite Ore Dust
+exnihiloomnia:ore_cobalt_nether_gravel, Cobalt Nether Gravel
+exnihiloomnia:ore_cobalt_sand, Cobalt Sand
+exnihiloomnia:ore_cobalt_dust, Cobalt Ore Dust
+exnihiloomnia:ore_platinum_gravel, Platinum Ore Gravel
+exnihiloomnia:ore_platinum_end_gravel, Platinum End Gravel
+exnihiloomnia:ore_platinum_sand, Platinum Sand
+exnihiloomnia:ore_platinum_dust, Platinum Ore Dust
+exnihiloomnia:ore_uranium_gravel, Uranium Ore Gravel
+exnihiloomnia:ore_uranium_sand, Uranium Sand
+exnihiloomnia:ore_uranium_dust, Uranium Ore Dust
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -9553,24 +9524,6 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -9691,6 +9644,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 minefactoryreloaded:milk_fluid, fluid.mfr.milk.fluid.name
 minefactoryreloaded:sludge_fluid, fluid.mfr.sludge.fluid.name
 minefactoryreloaded:sewage_fluid, fluid.mfr.sewage.fluid.name
@@ -9961,23 +9932,6 @@ minefactoryreloaded:needle_gun_ammo_anvil, Needlegun Ammo (Anvil)
 minefactoryreloaded:rocket_launcher, SPAMR Launcher
 minefactoryreloaded:rocket:0, Tracking Self-Propelled Anti Material Rocket
 minefactoryreloaded:rocket:1, Self-Propelled Anti Material Rocket
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.lubricant, Lubricant
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10127,6 +10081,15 @@ pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
 pneumaticcraft:safety_tube_module, Safety Tube Module
 pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
 pneumaticcraft:flow_detector_module, Flow Detector Tube Module
@@ -10135,6 +10098,17 @@ pneumaticcraft:regulator_tube_module, Regulator Tube Module
 pneumaticcraft:charging_module, Charging Module
 pneumaticcraft:logistics_module, Logistics Module
 pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.fuel, Gasoline
+spiceoflife:bookfoodjournal, Food Journal
+spiceoflife:lunchbox, Lunch Box
+spiceoflife:lunchbag, Lunch Bag
 thermallogistics:requester:0, Requester
 thermallogistics:requester:1, Hardened Requester
 thermallogistics:requester:2, Reinforced Requester
@@ -10152,7 +10126,6 @@ thermallogistics:distributor:3, Signalum Distributor
 thermallogistics:distributor:4, Resonant Distributor
 thermallogistics:manager, Network Manager
 thermallogistics:terminal_item, Terminal
-solcarrot:food_book, Food Book
 base:wrench, Wrench
 chisel_plus:amber_ore, Amber Ore
 chisel_plus:test, Test
@@ -10456,23 +10429,25 @@ chisel_plus:fantasy_gold_decor_4, Fantasy
 chisel_plus:fantasy_pillar_decorated, Fantasy
 chisel_plus:fantasy_pillar, Fantasy
 chisel_plus:fantasy_plate, Fantasy
-contenttweaker:porcelainclay, Porcelain Clay
+contenttweaker:porcelainclay, item.contenttweaker.porcelainclay.name
 contenttweaker:cooked_silkworm, Cooked Silkworm
+contenttweaker:grass_seeds, Grass Seeds
+contenttweaker:ancient_spores, Ancient Spores
 hardcorequesting:quest_book, item.hqm:quest_book.name
-hardcorequesting:quarterheart:0, Quarter of a heart
 hardcorequesting:bags:0, Reward Bag
 hardcorequesting:bags:1, Reward Bag
 hardcorequesting:bags:2, Reward Bag
 hardcorequesting:bags:3, Reward Bag
 hardcorequesting:bags:4, Reward Bag
-hardcorequesting:halfheart:0, Half a heart
-hardcorequesting:quest_tracker, Quest Tracking System
-hardcorequesting:threequarts:0, Three quarters of a heart
 hardcorequesting:item_barrel, Quest Delivery System
+hardcorequesting:threequarts:0, Three quarters of a heart
+hardcorequesting:quest_tracker, Quest Tracking System
+hardcorequesting:quarterheart:0, Quarter of a heart
+hardcorequesting:halfheart:0, Half a heart
 hardcorequesting:rottenheart:0, Rotten heart
-hardcorequesting:heart:0, Full heart
 hardcorequesting:quest_portal, tile.hqm:quest_portal.name
 hardcorequesting:hqm_invalid_item, Invalid Item
+hardcorequesting:heart:0, Full heart
 ichunutil:compact_porkchop, Compact Raw Porkchop
 harvestcraft:blackberryitem, Blackberry
 harvestcraft:blackberryseeditem, Blackberry Seed
@@ -11810,3 +11785,18 @@ tmechworks:nuggets:0, Aluminum Nugget
 tmechworks:nuggets:1, Copper Nugget
 tmechworks:nuggets:2, Tin Nugget
 tmechworks:nuggets:3, Bronze Nugget
+oreberries:copper_nugget, %s Nugget
+oreberries:tin_nugget, %s Nugget
+oreberries:aluminum_nugget, %s Nugget
+oreberries:iron_oreberry_bush, %s Oreberry Bush
+oreberries:iron_oreberry, %s Oreberry
+oreberries:gold_oreberry_bush, %s Oreberry Bush
+oreberries:gold_oreberry, %s Oreberry
+oreberries:copper_oreberry_bush, %s Oreberry Bush
+oreberries:copper_oreberry, %s Oreberry
+oreberries:tin_oreberry_bush, %s Oreberry Bush
+oreberries:tin_oreberry, %s Oreberry
+oreberries:aluminum_oreberry_bush, %s Oreberry Bush
+oreberries:aluminum_oreberry, %s Oreberry
+oreberries:essence_oreberry_bush, %s Oreberry Bush
+oreberries:essence_oreberry, %s Oreberry

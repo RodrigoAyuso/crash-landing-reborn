@@ -1,0 +1,145 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        },
+
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -300,
+            "posY" : 0,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -300,
+            "posY" : 24,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -300,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -300,
+            "posY" : 74,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -200,
+            "posY" : 74,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -120,
+            "posY" : 98,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -150,
+            "posY" : 98,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "background": {
+            "image": "mainmenu:textures/background.png",
+            "mode": "stretch"
+
+        }
+    }
+}

@@ -5,46 +5,41 @@ recipes.addShaped("OriginalStoneBarrel", <exnihiloomnia:barrel_stone>,
                   [<minecraft:stone>,   <minecraft:stone_slab>, <minecraft:stone>]]);
 
 // --- Crook ---
-recipes.addShaped("OriginalCrook", <exnihiloomnia:crook>,
+recipes.addShaped("OriginalCrook", <exnihiloomnia:wooden_crook>,
                   [[<minecraft:stick>, <minecraft:stick>, null],
                   [null,             <minecraft:stick>, null],
                   [null,             <minecraft:stick>, null]]);
 
-recipes.addShaped("OriginalBoneCrook", <exnihiloomnia:crook_bone>, 
+recipes.addShaped("OriginalBoneCrook", <exnihiloomnia:bone_crook>,
     [[<minecraft:bone>, <minecraft:bone>, null], 
      [null,             <minecraft:bone>, null], 
      [null,             <minecraft:bone>, null]]);
 
 // --- Crucible ---
-recipes.addShaped("OriginalUnfiredCrucible", <exnihiloomnia:raw_crucible>,
-                  [[<contenttweaker:porcelainclay>, null, <contenttweaker:porcelainclay>],
-                  [<contenttweaker:porcelainclay>, null,   <contenttweaker:porcelainclay>],
-                  [<contenttweaker:porcelainclay>,  <contenttweaker:porcelainclay>, <contenttweaker:porcelainclay>]]);
-
 furnace.addRecipe(<exnihiloomnia:crucible>, <exnihiloomnia:raw_crucible>);
 
 // --- Hammers ---
-recipes.addShaped("OriginalWoodenHammer", <exnihiloomnia:hammer_wood>,
+recipes.addShaped("OriginalWoodenHammer", <exnihiloomnia:wooden_hammer>,
                   [[null, <ore:plankWood>, null],
                   [null, <minecraft:stick>,   <ore:plankWood>],
                   [      <minecraft:stick>,   null, null]]);
 
-recipes.addShaped("OriginalStoneHammer", <exnihiloomnia:hammer_stone>, 
+recipes.addShaped("OriginalStoneHammer", <exnihiloomnia:stone_hammer>,
     [[null, <minecraft:cobblestone:0>, null],
      [null, <minecraft:stick>,   <minecraft:cobblestone:0>],
      [      <minecraft:stick>,   null, null]]);
 
-recipes.addShaped("OriginalIronHammer", <exnihiloomnia:hammer_iron>,
+recipes.addShaped("OriginalIronHammer", <exnihiloomnia:iron_hammer>,
                   [[null, <minecraft:iron_ingot:0>, null],
                   [null, <minecraft:stick>,   <minecraft:iron_ingot:0>],
                   [      <minecraft:stick>,   null, null]]);
 
-recipes.addShaped("OriginalGoldHammer", <exnihiloomnia:hammer_gold>,
+recipes.addShaped("OriginalGoldHammer", <exnihiloomnia:gold_hammer>,
                   [[null, <minecraft:gold_ingot:0>, null],
                   [null, <minecraft:stick>,   <minecraft:gold_ingot:0>],
                   [      <minecraft:stick>,   null, null]]);
 
-recipes.addShaped("OriginalDiamondHammer", <exnihiloomnia:hammer_diamond>,
+recipes.addShaped("OriginalDiamondHammer", <exnihiloomnia:diamond_hammer>,
                   [[null, <minecraft:diamond:0>, null],
                   [null, <minecraft:stick>,   <minecraft:diamond:0>],
                   [      <minecraft:stick>,   null, null]]);
@@ -62,13 +57,13 @@ recipes.addShaped("OriginalDiamondHammer", <exnihiloomnia:hammer_diamond>,
 <ore:ingotAluminum>.add(<exnihiloomnia:ore_aluminum_ingot>);
 
 // --- Mesh ---
-recipes.addShaped("OriginalMeshSilk", <exnihiloomnia:mesh_silk>,
+recipes.addShaped("OriginalMeshSilk", <exnihiloomnia:silk_mesh>,
                   [[<minecraft:string>, <minecraft:string>, <minecraft:string>],
                   [<minecraft:string>, <minecraft:string>,   <minecraft:string>],
                   [<minecraft:string>,   <minecraft:string>, <minecraft:string>]]);
 
 // --- Porcelain Clay ---
-recipes.addShaped("PorcelainClay", <contenttweaker:porcelainclay>,
+recipes.addShaped("PorcelainClay", <exnihiloomnia:porcelain_clay>,
                   [[<minecraft:clay_ball>, <minecraft:dye:15>, null],
                   [null,   null, null],
                   [null,   null, null]]);
