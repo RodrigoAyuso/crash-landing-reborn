@@ -8121,34 +8121,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -9151,62 +9151,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -9428,6 +9428,39 @@ exnihiloomnia:ore_uranium_chunk, Broken Uranium Ore
 exnihiloomnia:ore_uranium_crushed, Crushed Uranium Ore
 exnihiloomnia:ore_uranium_powder, Powdered Uranium Ore
 exnihiloomnia:ore_uranium_ingot, Uranium Ingot
+exnihiloomnia:ore_cobalt_nether_gravel, Cobalt Nether Gravel
+exnihiloomnia:ore_cobalt_sand, Cobalt Sand
+exnihiloomnia:ore_cobalt_dust, Cobalt Ore Dust
+exnihiloomnia:ore_platinum_gravel, Platinum Ore Gravel
+exnihiloomnia:ore_platinum_end_gravel, Platinum End Gravel
+exnihiloomnia:ore_platinum_sand, Platinum Sand
+exnihiloomnia:ore_platinum_dust, Platinum Ore Dust
+exnihiloomnia:ore_silver_gravel, Silver Ore Gravel
+exnihiloomnia:ore_silver_end_gravel, Silver End Gravel
+exnihiloomnia:ore_silver_sand, Silver Sand
+exnihiloomnia:ore_silver_dust, Silver Ore Dust
+exnihiloomnia:ore_ardite_nether_gravel, Ardite Nether Gravel
+exnihiloomnia:ore_ardite_sand, Ardite Sand
+exnihiloomnia:ore_ardite_dust, Ardite Ore Dust
+exnihiloomnia:ore_iron_gravel, Iron Ore Gravel
+exnihiloomnia:ore_iron_nether_gravel, Iron Nether Gravel
+exnihiloomnia:ore_iron_sand, Iron Sand
+exnihiloomnia:ore_iron_dust, Iron Ore Dust
+exnihiloomnia:ore_lead_gravel, Lead Ore Gravel
+exnihiloomnia:ore_lead_end_gravel, Lead End Gravel
+exnihiloomnia:ore_lead_sand, Lead Sand
+exnihiloomnia:ore_lead_dust, Lead Ore Dust
+exnihiloomnia:ore_uranium_gravel, Uranium Ore Gravel
+exnihiloomnia:ore_uranium_sand, Uranium Sand
+exnihiloomnia:ore_uranium_dust, Uranium Ore Dust
+exnihiloomnia:ore_tin_gravel, Tin Ore Gravel
+exnihiloomnia:ore_tin_end_gravel, Tin End Gravel
+exnihiloomnia:ore_tin_sand, Tin Sand
+exnihiloomnia:ore_tin_dust, Tin Ore Dust
+exnihiloomnia:ore_copper_gravel, Copper Ore Gravel
+exnihiloomnia:ore_copper_nether_gravel, Copper Nether Gravel
+exnihiloomnia:ore_copper_sand, Copper Sand
+exnihiloomnia:ore_copper_dust, Copper Ore Dust
 exnihiloomnia:ore_gold_gravel, Gold Ore Gravel
 exnihiloomnia:ore_gold_nether_gravel, Gold Nether Gravel
 exnihiloomnia:ore_gold_sand, Gold Sand
@@ -9440,39 +9473,6 @@ exnihiloomnia:ore_aluminum_gravel, Aluminum Ore Gravel
 exnihiloomnia:ore_aluminum_end_gravel, Aluminum End Gravel
 exnihiloomnia:ore_aluminum_sand, Aluminum Sand
 exnihiloomnia:ore_aluminum_dust, Aluminum Ore Dust
-exnihiloomnia:ore_copper_gravel, Copper Ore Gravel
-exnihiloomnia:ore_copper_nether_gravel, Copper Nether Gravel
-exnihiloomnia:ore_copper_sand, Copper Sand
-exnihiloomnia:ore_copper_dust, Copper Ore Dust
-exnihiloomnia:ore_silver_gravel, Silver Ore Gravel
-exnihiloomnia:ore_silver_end_gravel, Silver End Gravel
-exnihiloomnia:ore_silver_sand, Silver Sand
-exnihiloomnia:ore_silver_dust, Silver Ore Dust
-exnihiloomnia:ore_tin_gravel, Tin Ore Gravel
-exnihiloomnia:ore_tin_end_gravel, Tin End Gravel
-exnihiloomnia:ore_tin_sand, Tin Sand
-exnihiloomnia:ore_tin_dust, Tin Ore Dust
-exnihiloomnia:ore_iron_gravel, Iron Ore Gravel
-exnihiloomnia:ore_iron_nether_gravel, Iron Nether Gravel
-exnihiloomnia:ore_iron_sand, Iron Sand
-exnihiloomnia:ore_iron_dust, Iron Ore Dust
-exnihiloomnia:ore_lead_gravel, Lead Ore Gravel
-exnihiloomnia:ore_lead_end_gravel, Lead End Gravel
-exnihiloomnia:ore_lead_sand, Lead Sand
-exnihiloomnia:ore_lead_dust, Lead Ore Dust
-exnihiloomnia:ore_ardite_nether_gravel, Ardite Nether Gravel
-exnihiloomnia:ore_ardite_sand, Ardite Sand
-exnihiloomnia:ore_ardite_dust, Ardite Ore Dust
-exnihiloomnia:ore_cobalt_nether_gravel, Cobalt Nether Gravel
-exnihiloomnia:ore_cobalt_sand, Cobalt Sand
-exnihiloomnia:ore_cobalt_dust, Cobalt Ore Dust
-exnihiloomnia:ore_platinum_gravel, Platinum Ore Gravel
-exnihiloomnia:ore_platinum_end_gravel, Platinum End Gravel
-exnihiloomnia:ore_platinum_sand, Platinum Sand
-exnihiloomnia:ore_platinum_dust, Platinum Ore Dust
-exnihiloomnia:ore_uranium_gravel, Uranium Ore Gravel
-exnihiloomnia:ore_uranium_sand, Uranium Sand
-exnihiloomnia:ore_uranium_dust, Uranium Ore Dust
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -9932,6 +9932,31 @@ minefactoryreloaded:needle_gun_ammo_anvil, Needlegun Ammo (Anvil)
 minefactoryreloaded:rocket_launcher, SPAMR Launcher
 minefactoryreloaded:rocket:0, Tracking Self-Propelled Anti Material Rocket
 minefactoryreloaded:rocket:1, Self-Propelled Anti Material Rocket
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10081,31 +10106,6 @@ pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.fuel, Gasoline
 spiceoflife:bookfoodjournal, Food Journal
 spiceoflife:lunchbox, Lunch Box
 spiceoflife:lunchbag, Lunch Bag
@@ -10433,21 +10433,21 @@ contenttweaker:porcelainclay, item.contenttweaker.porcelainclay.name
 contenttweaker:cooked_silkworm, Cooked Silkworm
 contenttweaker:grass_seeds, Grass Seeds
 contenttweaker:ancient_spores, Ancient Spores
+hardcorequesting:rottenheart:0, Rotten heart
+hardcorequesting:quarterheart:0, Quarter of a heart
+hardcorequesting:quest_portal, tile.hqm:quest_portal.name
 hardcorequesting:quest_book, item.hqm:quest_book.name
+hardcorequesting:hqm_invalid_item, Invalid Item
+hardcorequesting:threequarts:0, Three quarters of a heart
 hardcorequesting:bags:0, Reward Bag
 hardcorequesting:bags:1, Reward Bag
 hardcorequesting:bags:2, Reward Bag
 hardcorequesting:bags:3, Reward Bag
 hardcorequesting:bags:4, Reward Bag
 hardcorequesting:item_barrel, Quest Delivery System
-hardcorequesting:threequarts:0, Three quarters of a heart
-hardcorequesting:quest_tracker, Quest Tracking System
-hardcorequesting:quarterheart:0, Quarter of a heart
-hardcorequesting:halfheart:0, Half a heart
-hardcorequesting:rottenheart:0, Rotten heart
-hardcorequesting:quest_portal, tile.hqm:quest_portal.name
-hardcorequesting:hqm_invalid_item, Invalid Item
 hardcorequesting:heart:0, Full heart
+hardcorequesting:quest_tracker, Quest Tracking System
+hardcorequesting:halfheart:0, Half a heart
 ichunutil:compact_porkchop, Compact Raw Porkchop
 harvestcraft:blackberryitem, Blackberry
 harvestcraft:blackberryseeditem, Blackberry Seed

@@ -1,0 +1,39 @@
+{
+    "input": {
+        "item": "minecraft:stone",
+        "data": 0
+    },
+    "time": 20,
+    "rewards": [
+        {
+            "item": "oreberries:essence_oreberry_bush",
+            "chance": 0.01,
+            "type": "ores"
+        },
+        {
+            "item": "oreberries:alluminum_oreberry_bush",
+            "chance": 0.001,
+            "type": "ores"
+        },
+        {
+            "item": "oreberries:gold_oreberry_bush",
+            "chance": 0.001,
+            "type": "ores"
+        },
+        {
+            "item": "oreberries:copper_oreberry_bush",
+            "chance": 0.001,
+            "type": "ores"
+        },
+        {
+            "item": "oreberries:tin_oreberry_bush",
+            "chance": 0.001,
+            "type": "ores"
+        },
+        {
+            "item": "oreberries:iron_oreberry_bush",
+            "chance": 0.001,
+            "type": "ores"
+        }
+    ]
+}
