@@ -4,5 +4,9 @@
         "ore": "cobblestone"
     },
     "heat": 3,
-    "fluidOutput": "lava"
+    "fluidOutput": {
+        "fluid": "lava",
+        "volume": 250
+    },
+    "inputVolume": 250
 }

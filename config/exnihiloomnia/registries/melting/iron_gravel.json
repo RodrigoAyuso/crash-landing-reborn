@@ -1,0 +1,10 @@
+{
+    "input": {
+        "item": "exnihiloomnia:ore_iron_gravel"
+    },
+    "heat": 3,
+    "fluidOutput": {
+        "fluid": "iron",
+        "volume": 144
+    }
+}
