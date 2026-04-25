@@ -1,6 +1,0 @@
-{
-    "heat": 7,
-    "source": {
-        "block": "thermalfoundation:fluid_pyrotheum"
-    }
-}
