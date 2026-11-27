@@ -1,0 +1,22 @@
+filename = 'ModTweaker2-0.9.6.jar'
+name = 'ModTweaker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.9.6'
+
+[download]
+hash = '81bd30cb145bdf5fc94ee1d0234c7fac7bc062eeb5f61af6bf6a5efdc898e7c99621576b451448cb12bfb3e81c5687f11bda9cc65dcef760699fe7eb6e2233d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7ZsHKFX3/versions/JCOS1cuU/ModTweaker2-0.9.6.jar'
+
+[update.modrinth]
+mod-id = '7ZsHKFX3'
+version = 'JCOS1cuU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Xg35A4rS'
+type = 'REQUIRED'
+version = 'Hz9R6dqB'

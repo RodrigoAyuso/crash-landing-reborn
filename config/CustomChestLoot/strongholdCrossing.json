@@ -1,0 +1,77 @@
+{
+  "_name": "strongholdCrossing",
+  "min": 1,
+  "max": 5,
+  "loot": [
+    {
+      "weight": 10,
+      "id": "minecraft:iron_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:gold_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:redstone",
+      "damage": 0,
+      "min": 4,
+      "max": 9
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:coal",
+      "damage": 0,
+      "min": 3,
+      "max": 8
+    },
+    {
+      "weight": 15,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 15,
+      "id": "minecraft:apple",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:iron_pickaxe",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:enchanted_book",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "PneumaticCraft:stopWorm",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "PneumaticCraft:nukeVirus",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    }
+  ]
+}

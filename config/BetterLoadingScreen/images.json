@@ -1,0 +1,87 @@
+[
+  {
+    "resourceLocation": "crashlanding:textures/gui/splash_space.png",
+    "positionType": "TOP_LEFT",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "comment": "Fullscreen space background"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_STATUS",
+    "position": {
+      "x": 0,
+      "y": 85,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "ffffff",
+    "comment": "Loading status text"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_PERCENTAGE",
+    "position": {
+      "x": 0,
+      "y": 73,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "ffffff",
+    "comment": "Loading percentage text"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/progressBars.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 10,
+      "width": 182,
+      "height": 5
+    },
+    "position": {
+      "x": 0,
+      "y": 62,
+      "width": 182,
+      "height": 5
+    },
+    "comment": "Progress bar background"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/progressBars.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_PERCENTAGE",
+    "texture": {
+      "x": 0,
+      "y": 15,
+      "width": 182,
+      "height": 5
+    },
+    "position": {
+      "x": 0,
+      "y": 62,
+      "width": 182,
+      "height": 5
+    },
+    "comment": "Progress bar fill"
+  },
+  {
+    "type": "CLEAR_COLOUR",
+    "colour": "070b14",
+    "comment": "Dark background color"
+  }
+]

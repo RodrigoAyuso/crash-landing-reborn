@@ -1,0 +1,70 @@
+{
+  "_name": "strongholdLibrary",
+  "min": 1,
+  "max": 5,
+  "loot": [
+    {
+      "weight": 20,
+      "id": "minecraft:book",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "minecraft:paper",
+      "damage": 0,
+      "min": 2,
+      "max": 7
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:map",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:compass",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:enchanted_book",
+      "damage": 0,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "MineFactoryReloaded:rubberwood.sapling",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "PneumaticCraft:stopWorm",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "PneumaticCraft:nukeVirus",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "keep": "iguanaman.iguanatweakstconstruct.worldgen.RandomWeaponChestContent",
+      "id": "TConstruct:broadsword",
+      "damage": 0,
+      "nbt": false,
+      "count": 1
+    }
+  ]
+}

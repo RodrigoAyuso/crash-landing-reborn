@@ -1,0 +1,21 @@
+filename = 'NotEnoughItems-2.9.16-GTNH.jar'
+name = 'NotEnoughItems Unofficial 1.7.10'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.9.16-GTNH'
+
+[download]
+hash = '9bd2b44bfa23a4f5ced5a8e2d76da333f8ef0e43af9e954cdbdcb5ec47c276065242e0c06fd12d2b2236690df9a38a0ff52810e37f4f1b0dc2a6c8811af95694'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iNPc3Onu/versions/JvOxGG11/NotEnoughItems-2.9.16-GTNH.jar'
+
+[update.modrinth]
+mod-id = 'iNPc3Onu'
+version = 'JvOxGG11'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qMOdaUOs'
+type = 'REQUIRED'
