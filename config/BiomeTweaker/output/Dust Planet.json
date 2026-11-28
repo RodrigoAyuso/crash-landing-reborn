@@ -1,25 +1,23 @@
 
 {
-  "ID": 10,
+  "ID": 16,
   "Name": "Dust Planet",
-  "Class": "net.minecraft.world.biome.BiomeGenOcean",
-  "Color": 9474208,
-  "Root Height": -1.0,
-  "Height Variation": 0.1,
-  "Top Block": "exnihilo:dust",
-  "Filler Block": "exnihilo:dust",
+  "Class": "net.minecraft.world.biome.BiomeGenBeach",
+  "Color": 16421912,
+  "Root Height": 0.0,
+  "Height Variation": 0.025,
+  "Top Block": "minecraft:sand",
+  "Filler Block": "minecraft:sand",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
   "Temperature": 2.0,
-  "Humidity": 0.5,
+  "Humidity": 0.0,
   "Water Tint": 16777215,
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HOT",
-    "DRY",
-    "SANDY"
+    "BEACH"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -90,5 +88,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": true
+  "Tweaked": false
 }

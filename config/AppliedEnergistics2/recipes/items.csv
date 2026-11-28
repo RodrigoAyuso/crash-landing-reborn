@@ -2336,7 +2336,7 @@ RedstoneArsenal:Storage:1, Flux Crystal Block
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Energy Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -3611,6 +3611,23 @@ rockdigger:metalwalltoprusted, tile.blocks.metalwalltoprusted.name
 rockdigger:futureblock1, tile.blocks.futureblock1.name
 rockdigger:futureblock10, tile.blocks.futureblock10.name
 rockdigger:futureblock11, tile.blocks.futureblock11.name
+StevesFactoryManager:BlockMachineManagerName, Machine Inventory Manager
+StevesFactoryManager:BlockCableName, Inventory Cable
+StevesFactoryManager:BlockCableRelayName:0, Inventory Relay
+StevesFactoryManager:BlockCableRelayName:8, Advanced Inventory Relay
+StevesFactoryManager:BlockCableOutputName, Redstone Emitter
+StevesFactoryManager:BlockCableInputName, Redstone Receiver
+StevesFactoryManager:BlockCableCreativeName, Creative Supplier
+StevesFactoryManager:BlockCableIntakeName:0, Item Valve
+StevesFactoryManager:BlockCableIntakeName:8, Rapid Item Valve
+StevesFactoryManager:BlockCableBUDName, Block Detector
+StevesFactoryManager:BlockCableBreakerName, Block Gate
+StevesFactoryManager:BlockCableClusterName:0, Cable Cluster
+StevesFactoryManager:BlockCableClusterName:8, Advanced Cable Cluster
+StevesFactoryManager:BlockCableCamouflageName:0, Cable Camouflage
+StevesFactoryManager:BlockCableCamouflageName:1, Double Sided Cable Camouflage
+StevesFactoryManager:BlockCableCamouflageName:2, Transforming Cable Camouflage
+StevesFactoryManager:BlockCableSignName, Sign Updater
 Sync:Sync_ShellConstructor, Shell Constructor
 ThermalDynamics:ThermalDynamics_0:0, Leadstone Fluxduct
 ThermalDynamics:ThermalDynamics_0:1, Hardened Fluxduct
@@ -5358,6 +5375,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blocks.metalwalltopru
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blocks.futureblock1.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blocks.futureblock10.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blocks.futureblock11.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Inventory Cable
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -10552,6 +10570,7 @@ ThermalDynamics:cover:0, tile.blocks.metalwalltoprusted.name Cover
 ThermalDynamics:cover:0, tile.blocks.futureblock1.name Cover
 ThermalDynamics:cover:0, tile.blocks.futureblock10.name Cover
 ThermalDynamics:cover:0, tile.blocks.futureblock11.name Cover
+ThermalDynamics:cover:0, Inventory Cable Cover
 ThermalDynamics:cover:0, Empty Mesh Filter Cover
 ThermalDynamics:cover:0, Wide Mesh Filter Cover
 ThermalDynamics:cover:0, Slat Mesh Filter Cover
